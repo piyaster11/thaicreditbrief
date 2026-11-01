@@ -1,0 +1,145 @@
+{
+ "updated": "2026-11-01 09:40 (Bangkok, UTC+7)",
+ "method": "Avg of last 4 weeks vs previous 12 weeks, Google Trends TH weekly (0-100), stress/credit/consumer words with base ≥3. Data pulled 2026-11-01T01:21+07:00",
+ "top": [
+  {
+   "key": "layoff_th",
+   "word": "เลิกจ้าง",
+   "label": "layoffs",
+   "theme": "stress",
+   "last4": 31.5,
+   "prev12": 28.7,
+   "chg": 10,
+   "last_week": "2026-10-25",
+   "hint": "Labour-intensive manufacturing, exporters, retail staff costs",
+   "hint_th": "อุตสาหกรรมใช้แรงงานมาก ผู้ส่งออก ค้าปลีก"
+  },
+  {
+   "key": "factory_close_th",
+   "word": "โรงงานปิด",
+   "label": "factory closure",
+   "theme": "stress",
+   "last4": 27.8,
+   "prev12": 25.7,
+   "chg": 8,
+   "last_week": "2026-10-25",
+   "hint": "Manufacturing / industrial estates, auto parts, SME suppliers",
+   "hint_th": "ภาคการผลิต นิคมฯ ชิ้นส่วนยานยนต์ SME"
+  },
+  {
+   "key": "rating_th",
+   "word": "อันดับเครดิต",
+   "label": "credit rating",
+   "theme": "credit",
+   "last4": 7.8,
+   "prev12": 7.2,
+   "chg": 8,
+   "last_week": "2026-10-25",
+   "hint": "Corporate bond issuers, interest in credit ratings",
+   "hint_th": "ผู้ออกหุ้นกู้ ความสนใจอันดับเครดิต"
+  }
+ ],
+ "all": [
+  {
+   "key": "layoff_th",
+   "word": "เลิกจ้าง",
+   "label": "layoffs",
+   "theme": "stress",
+   "last4": 31.5,
+   "prev12": 28.7,
+   "chg": 10,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "factory_close_th",
+   "word": "โรงงานปิด",
+   "label": "factory closure",
+   "theme": "stress",
+   "last4": 27.8,
+   "prev12": 25.7,
+   "chg": 8,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "rating_th",
+   "word": "อันดับเครดิต",
+   "label": "credit rating",
+   "theme": "credit",
+   "last4": 7.8,
+   "prev12": 7.2,
+   "chg": 8,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "bankrupt_th",
+   "word": "ล้มละลาย",
+   "label": "bankruptcy",
+   "theme": "stress",
+   "last4": 54.0,
+   "prev12": 52.2,
+   "chg": 3,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "debt_th",
+   "word": "หนี้",
+   "label": "debt",
+   "theme": "consumer",
+   "last4": 10.2,
+   "prev12": 9.9,
+   "chg": 3,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "credit_bureau_th",
+   "word": "เครดิตบูโร",
+   "label": "credit bureau",
+   "theme": "consumer",
+   "last4": 57.5,
+   "prev12": 56.7,
+   "chg": 1,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "pawn_th",
+   "word": "โรงรับจำนำ",
+   "label": "pawn shop",
+   "theme": "consumer",
+   "last4": 60.2,
+   "prev12": 60.8,
+   "chg": -1,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "npl_th",
+   "word": "หนี้เสีย",
+   "label": "bad debt (NPL)",
+   "theme": "stress",
+   "last4": 47.5,
+   "prev12": 49.9,
+   "chg": -5,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "car_seize_th",
+   "word": "ยึดรถ",
+   "label": "car repossession",
+   "theme": "consumer",
+   "last4": 77.2,
+   "prev12": 81.9,
+   "chg": -6,
+   "last_week": "2026-10-25"
+  },
+  {
+   "key": "loan_th",
+   "word": "สินเชื่อ",
+   "label": "loans",
+   "theme": "consumer",
+   "last4": 40.2,
+   "prev12": 43.3,
+   "chg": -7,
+   "last_week": "2026-10-25"
+  }
+ ],
+ "source": "https://piyaster11.github.io/thai-credit-trends/"
+}

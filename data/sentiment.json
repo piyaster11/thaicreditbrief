@@ -1,0 +1,49 @@
+{
+ "updated": "2026-11-01 09:40 (Bangkok, UTC+7)",
+ "company": "TU",
+ "story": "Thai Union: TRIS outlook cut to Negative, plus social media chatter (Sep–Oct 2026)",
+ "story_th": "ไทยยูเนี่ยน: ทริสปรับแนวโน้มเป็นลบ และกระแสบนโซเชียล (ก.ย.–ต.ค. 69)",
+ "verified": [
+  {
+   "en": "TRIS affirmed TU at A+ and revised its outlook to Negative from Stable (25 Sep 2026).",
+   "th": "ทริสคงอันดับ TU ที่ A+ ปรับแนวโน้มเป็นลบ (25 ก.ย. 69)",
+   "url": "https://hoonsmart.com/archives/440608",
+   "url2": "https://x.com/thaibma/status/2103455245179228470",
+   "src": "HoonSmart + ThaiBMA official X account"
+  },
+  {
+   "en": "i-Tail (79.3% owned by TU) completed its US$160m acquisition of Phelps Pet Products (Oct 2026).",
+   "th": "i-Tail (TU ถือ 79.3%) ซื้อ Phelps Pet Products 160 ล้านดอลลาร์ สำเร็จ (ต.ค. 69)",
+   "url": "https://www.i-tail.com/en/newsroom/news-and-activities/718/i-tail-completes-acquisition-of-phelps-pet-products-strengthening-us-presence-and-broadening-pet-treats-portfolio",
+   "src": "i-Tail newsroom (company)"
+  },
+  {
+   "en": "TU fully impaired its Red Lobster minority stake (about US$530m non-cash) in 2023 and announced its exit in Jan 2024.",
+   "th": "TU ตัดด้อยค่าเงินลงทุน Red Lobster ทั้งหมด (~530 ล้านดอลลาร์ ไม่ใช่เงินสด) ปี 66 และประกาศถอนการลงทุน ม.ค. 67",
+   "url": "https://www.thaiunion.com/th/newsroom/press-release/1675/thai-union-group-announces-intention-to-pursue-exit-of-minority-investment-in-red-lobster",
+   "url2": "https://www.bloomberg.com/news/articles/2024-01-17/thai-tuna-canner-takes-530-million-charge-from-red-lobster-exit",
+   "src": "Thai Union press release; Bloomberg"
+  }
+ ],
+ "unverified": [
+  {
+   "en": "Viral replies claim TU 'forced' Red Lobster into a shrimp contract to dump losses. This is opinion and not confirmed by an official source; it relates to a US lawsuit and media debate, not a TU filing.",
+   "th": "โพสต์ไวรัลอ้างว่า TU \"บังคับ\" Red Lobster ทำสัญญากุ้งเพื่อโยนขาดทุน เป็นความเห็น ไม่มีแหล่งทางการยืนยัน",
+   "url": "https://x.com/parafelfer/status/2110229439451910388",
+   "check": "Check against TU's SET filings and the Red Lobster bankruptcy court record before using it."
+  },
+  {
+   "en": "One account made a serious supply-chain labour allegation with no evidence in the post. Unverified: do not repeat it. Check TU's sustainability disclosures and credible NGO or government reports.",
+   "th": "มีบัญชีหนึ่งกล่าวหาเรื่องแรงงานในห่วงโซ่อุปทานโดยไม่มีหลักฐาน ยังไม่ยืนยัน ห้ามนำไปใช้ต่อ",
+   "url": null,
+   "check": "This is a reputational / ESG risk flag only. Verify before citing."
+  },
+  {
+   "en": "A broker post says '2026 sales expected +4–6%'. This is a broker forecast, not a fact.",
+   "th": "โพสต์โบรกเกอร์คาดยอดขายปี 69 +4–6% เป็นประมาณการ ไม่ใช่ข้อเท็จจริง",
+   "url": "https://x.com/invxsecurities/status/2103322343074574379",
+   "check": "Compare with TU's own guidance in its MD&A / opportunity day."
+  }
+ ],
+ "lesson": "AI drafts, you verify: anything without an official source stays 'unverified', however many likes it has."
+}

@@ -1,0 +1,44 @@
+{
+ "updated": "2026-11-01 09:40 (Bangkok, UTC+7)",
+ "items": [
+  {
+   "en": "BOT's MPC held the policy rate at 1.00% on 28 Oct 2026 (unanimous, 4th straight hold). 2026 GDP forecast 2.4%; corporate credit growing but SME loans still contracting. Next meeting 23 Dec.",
+   "th": "กนง. คงดอกเบี้ยนโยบาย 1.00% (28 ต.ค. 69) เป็นเอกฉันท์ ครั้งที่ 4 ติด คาด GDP ปี 69 โต 2.4% สินเชื่อธุรกิจใหญ่ขยายตัว แต่สินเชื่อ SME ยังหดตัว ประชุมครั้งถัดไป 23 ธ.ค.",
+   "tag": "BOT rate",
+   "so": "Bank of Thailand",
+   "url": "https://www.bot.or.th/en/news-and-media/news/mpc/news-20261028-5FWvBPSf.html",
+   "url2": "https://www.channelnewsasia.com/business/thai-central-bank-keeps-interest-rate-unchanged-expected-6499181"
+  },
+  {
+   "en": "Baht: BOT USD reference rate 33.701 on 30 Oct 2026, from 33.748 on 29 Oct and 33.815 on 28 Oct, so the baht firmed slightly. Exporters (TU, CPF) are sensitive to the baht level.",
+   "th": "ค่าเงินบาท: อัตราอ้างอิง ธปท. 33.701 บาท/ดอลลาร์ (30 ต.ค. 69) จาก 33.748 (29 ต.ค.) บาทแข็งค่าเล็กน้อย กระทบผู้ส่งออกอย่าง TU, CPF",
+   "tag": "Baht",
+   "so": "Bank of Thailand statistics",
+   "url": "https://app.bot.or.th/BTWS_STAT/statistics/BOTWEBSTAT.aspx?language=ENG&reportID=123"
+  },
+  {
+   "en": "Corporate bonds (หุ้นกู้): 9M-2026 long-term issuance THB 629.7bn, -1.6% y/y; ThaiBMA says the full-year THB 880bn target may be missed. 5Y yields at end-Q3: AAA 2.06%, AA 2.45%, A 2.71%, BBB+ 4.19%. High-grade issuers still placing; issuers rated BBB and below or unrated pay 4.6–7.3% in Oct deals.",
+   "th": "หุ้นกู้: 9 เดือนแรกปี 69 ออกหุ้นกู้ระยะยาว 629,662 ล้านบาท (-1.6%) ThaiBMA คาดอาจไม่ถึงเป้า 8.8 แสนล้าน ผลตอบแทน 5 ปี AAA 2.06% / AA 2.45% / A 2.71% / BBB+ 4.19% หุ้นกู้ BBB ลงไปหรือไม่มีเรตติ้งในเดือน ต.ค. ให้ดอกเบี้ย 4.6–7.3%",
+   "tag": "Bond market",
+   "so": "ThaiBMA Q3-2026 press release; Prachachat",
+   "url": "https://www.thaibma.or.th/doc/press/y2026/Press-Q32026.pdf",
+   "url2": "https://www.prachachat.net/finance/news-2074514"
+  },
+  {
+   "en": "Tourism: 24.93m foreign arrivals from 1 Jan to 24 Oct 2026 (-4.43% y/y), spending THB 1.21tn (-2.68%). Weekly arrivals rose 3% as long-haul markets picked up; China arrivals fell 24% w/w. This matters for MINT, CENTEL and AOT.",
+   "th": "ท่องเที่ยว: นักท่องเที่ยวต่างชาติ 1 ม.ค.–24 ต.ค. 69 รวม 24.93 ล้านคน (-4.43%) รายได้ 1.21 ล้านล้านบาท (-2.68%) รายสัปดาห์ +3% จากตลาดระยะไกล จีน -24% กระทบ MINT, CENTEL, AOT",
+   "tag": "Tourism",
+   "so": "Khaosod English / Ministry of Tourism & Sports",
+   "url": "https://www.khaosodenglish.com/tourism/2026/10/27/thailand-welcomes-25-million-foreign-tourists-in-first-10-months/",
+   "url2": "https://www.kaohooninternational.com/economics/593345"
+  },
+  {
+   "en": "Watchlist: TRIS kept Thai Union (TU) at A+ but revised its outlook to Negative from Stable (25 Sep 2026), because debt is falling more slowly than expected (debt/EBITDA expected to stay above 5x for 2–3 years). Separately, TU's subsidiary i-Tail closed the US$160m Phelps Pet Products deal (22 Oct).",
+   "th": "Watchlist: ทริสคง TU ที่ A+ แต่ปรับแนวโน้มเป็น \"ลบ\" (25 ก.ย. 69) เพราะหนี้ลดช้ากว่าคาด (หนี้/EBITDA เกิน 5 เท่า 2-3 ปี) และ i-Tail (บริษัทลูก) ปิดดีลซื้อ Phelps Pet Products 160 ล้านดอลลาร์ (22 ต.ค.)",
+   "tag": "Watchlist",
+   "so": "HoonSmart; i-Tail newsroom",
+   "url": "https://hoonsmart.com/archives/440608",
+   "url2": "https://www.i-tail.com/en/newsroom/news-and-activities/718/i-tail-completes-acquisition-of-phelps-pet-products-strengthening-us-presence-and-broadening-pet-treats-portfolio"
+  }
+ ]
+}

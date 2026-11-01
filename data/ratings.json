@@ -1,0 +1,138 @@
+{
+ "updated": "2026-11-01 09:40 (Bangkok, UTC+7)",
+ "checked": "1 Nov 2026",
+ "items": [
+  {
+   "sym": "CPN",
+   "agency": "TRIS",
+   "rating": "AA+",
+   "outlook": "Stable",
+   "date": "26 Feb 2026",
+   "change": "Upgraded from AA (26 Feb 2026)",
+   "flag": "up",
+   "url": "https://investor.centralpattana.co.th/en/document/tris-rating-reports",
+   "url2": null
+  },
+  {
+   "sym": "CPALL",
+   "agency": "TRIS",
+   "rating": "AA-",
+   "outlook": "Stable",
+   "date": "Jul 2026 (news 9 Jul 2026)",
+   "change": "Affirmed",
+   "flag": "none",
+   "url": "https://www.hoonvision.com/hoonset/cpall-11/",
+   "url2": null
+  },
+  {
+   "sym": "CRC",
+   "agency": "TRIS",
+   "rating": "AA-",
+   "outlook": "Stable",
+   "date": "6 Aug 2026",
+   "change": "Affirmed",
+   "flag": "none",
+   "url": "https://www.centralretail.com/th/investor-relations/debenture/credit-ratings-and-reports",
+   "url2": null
+  },
+  {
+   "sym": "PTT",
+   "agency": "Fitch",
+   "rating": "BBB+ (intl) / AAA(tha) national",
+   "outlook": "Stable (intl outlook revised from Negative, 23 Sep 2026)",
+   "date": "23 Sep 2026",
+   "change": "International outlook revised to Stable from Negative, following Thailand sovereign",
+   "flag": "up",
+   "url": "https://en.moneyandbanking.co.th/2026/272595/",
+   "url2": "https://www.infoquest.co.th/2026/585350"
+  },
+  {
+   "sym": "GULF",
+   "agency": "TRIS",
+   "rating": "AA-",
+   "outlook": "Stable",
+   "date": "IR page checked 1 Nov 2026 (action date not shown)",
+   "change": "n/a",
+   "flag": "none",
+   "url": "https://investor.gulf.co.th/th/debenture/credit-ratings",
+   "url2": null
+  },
+  {
+   "sym": "CPF",
+   "agency": "TRIS",
+   "rating": "A",
+   "outlook": "Stable",
+   "date": "9 Apr 2026",
+   "change": "Affirmed (downgraded from A+ on 1 Apr 2024)",
+   "flag": "none",
+   "url": "https://www.cpfworldwide.com/storage/credit_rating/pdf_en_CPF9Apr26-ENG_1778147213.pdf",
+   "url2": null
+  },
+  {
+   "sym": "TU",
+   "agency": "TRIS",
+   "rating": "A+",
+   "outlook": "Negative (from Stable)",
+   "date": "25 Sep 2026",
+   "change": "Outlook cut to Negative",
+   "flag": "down",
+   "url": "https://hoonsmart.com/archives/440608",
+   "url2": "https://x.com/thaibma/status/2103455245179228470"
+  },
+  {
+   "sym": "BDMS",
+   "agency": "TRIS",
+   "rating": "AA+",
+   "outlook": "Stable",
+   "date": "Last action Nov 2025; reconfirmed in May 2026 factsheet",
+   "change": "Affirmed",
+   "flag": "none",
+   "url": "https://investor.bdms.co.th/storage/general-info/bdms-at-a-glance/20260515-bdms-at-glance.pdf",
+   "url2": null
+  },
+  {
+   "sym": "BH",
+   "agency": "—",
+   "rating": "n/a",
+   "outlook": "n/a",
+   "date": "1 Nov 2026",
+   "change": "No public TRIS/Fitch rating found in this check",
+   "flag": "na",
+   "url": null,
+   "url2": null
+  },
+  {
+   "sym": "MINT",
+   "agency": "TRIS",
+   "rating": "A+",
+   "outlook": "n/a (outlook not shown on page opened)",
+   "date": "22 May 2026",
+   "change": "n/a",
+   "flag": "none",
+   "url": "https://www.settrade.com/th/research/analyst-research/stock/quote/114180-a-tris-mint",
+   "url2": null
+  },
+  {
+   "sym": "CENTEL",
+   "agency": "TRIS",
+   "rating": "A-",
+   "outlook": "Stable",
+   "date": "4 Aug 2026",
+   "change": "Affirmed",
+   "flag": "none",
+   "url": "https://investor.centarahotelsresorts.com/th/investor-relations/debenture-holder-information/credit-rating",
+   "url2": null
+  },
+  {
+   "sym": "AOT",
+   "agency": "—",
+   "rating": "n/a",
+   "outlook": "n/a",
+   "date": "1 Nov 2026",
+   "change": "No public TRIS/Fitch national rating found in this check",
+   "flag": "na",
+   "url": null,
+   "url2": null
+  }
+ ]
+}

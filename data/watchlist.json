@@ -1,0 +1,90 @@
+{
+ "updated": "2026-11-01 09:40 (Bangkok, UTC+7)",
+ "note": "Well-known SET-listed names chosen for training only. Not a client or prospect list.",
+ "items": [
+  {
+   "sym": "CPN",
+   "name": "Central Pattana",
+   "name_th": "เซ็นทรัลพัฒนา",
+   "sector": "Property",
+   "sector_th": "อสังหาฯ"
+  },
+  {
+   "sym": "CPALL",
+   "name": "CP ALL",
+   "name_th": "ซีพี ออลล์",
+   "sector": "Retail",
+   "sector_th": "ค้าปลีก"
+  },
+  {
+   "sym": "CRC",
+   "name": "Central Retail",
+   "name_th": "เซ็นทรัล รีเทล",
+   "sector": "Retail",
+   "sector_th": "ค้าปลีก"
+  },
+  {
+   "sym": "PTT",
+   "name": "PTT",
+   "name_th": "ปตท.",
+   "sector": "Energy",
+   "sector_th": "พลังงาน"
+  },
+  {
+   "sym": "GULF",
+   "name": "Gulf Development",
+   "name_th": "กัลฟ์ ดีเวลลอปเมนท์",
+   "sector": "Energy",
+   "sector_th": "พลังงาน"
+  },
+  {
+   "sym": "CPF",
+   "name": "Charoen Pokphand Foods",
+   "name_th": "เจริญโภคภัณฑ์อาหาร",
+   "sector": "Agri-food",
+   "sector_th": "เกษตร-อาหาร"
+  },
+  {
+   "sym": "TU",
+   "name": "Thai Union Group",
+   "name_th": "ไทยยูเนี่ยน กรุ๊ป",
+   "sector": "Agri-food",
+   "sector_th": "เกษตร-อาหาร"
+  },
+  {
+   "sym": "BDMS",
+   "name": "Bangkok Dusit Medical Services",
+   "name_th": "กรุงเทพดุสิตเวชการ",
+   "sector": "Hospitals",
+   "sector_th": "โรงพยาบาล"
+  },
+  {
+   "sym": "BH",
+   "name": "Bumrungrad Hospital",
+   "name_th": "โรงพยาบาลบำรุงราษฎร์",
+   "sector": "Hospitals",
+   "sector_th": "โรงพยาบาล"
+  },
+  {
+   "sym": "MINT",
+   "name": "Minor International",
+   "name_th": "ไมเนอร์ อินเตอร์เนชั่นแนล",
+   "sector": "Hotels & tourism",
+   "sector_th": "โรงแรม/ท่องเที่ยว"
+  },
+  {
+   "sym": "CENTEL",
+   "name": "Central Plaza Hotel (Centara)",
+   "name_th": "โรงแรมเซ็นทรัลพลาซา",
+   "sector": "Hotels & tourism",
+   "sector_th": "โรงแรม/ท่องเที่ยว"
+  },
+  {
+   "sym": "AOT",
+   "name": "Airports of Thailand",
+   "name_th": "ท่าอากาศยานไทย",
+   "sector": "Hotels & tourism",
+   "sector_th": "โรงแรม/ท่องเที่ยว"
+  }
+ ]
+}
