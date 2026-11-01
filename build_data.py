@@ -1,5 +1,5 @@
 import json
-NOW="2026-11-01 09:40 (Bangkok, UTC+7)"
+NOW="2026-11-01 09:30 (Bangkok, UTC+7)"
 W=[("CPN","Central Pattana","เซ็นทรัลพัฒนา","Property","อสังหาฯ"),("CPALL","CP ALL","ซีพี ออลล์","Retail","ค้าปลีก"),("CRC","Central Retail","เซ็นทรัล รีเทล","Retail","ค้าปลีก"),("PTT","PTT","ปตท.","Energy","พลังงาน"),("GULF","Gulf Development","กัลฟ์ ดีเวลลอปเมนท์","Energy","พลังงาน"),("CPF","Charoen Pokphand Foods","เจริญโภคภัณฑ์อาหาร","Agri-food","เกษตร-อาหาร"),("TU","Thai Union Group","ไทยยูเนี่ยน กรุ๊ป","Agri-food","เกษตร-อาหาร"),("BDMS","Bangkok Dusit Medical Services","กรุงเทพดุสิตเวชการ","Hospitals","โรงพยาบาล"),("BH","Bumrungrad Hospital","โรงพยาบาลบำรุงราษฎร์","Hospitals","โรงพยาบาล"),("MINT","Minor International","ไมเนอร์ อินเตอร์เนชั่นแนล","Hotels & tourism","โรงแรม/ท่องเที่ยว"),("CENTEL","Central Plaza Hotel (Centara)","โรงแรมเซ็นทรัลพลาซา","Hotels & tourism","โรงแรม/ท่องเที่ยว"),("AOT","Airports of Thailand","ท่าอากาศยานไทย","Hotels & tourism","โรงแรม/ท่องเที่ยว")]
 json.dump(dict(updated=NOW,note="Well-known SET-listed names chosen for training only. Not a client or prospect list.",items=[dict(sym=a,name=b,name_th=c,sector=d,sector_th=e) for a,b,c,d,e in W]),open("data/watchlist.json","w"),ensure_ascii=False,indent=1)
 
@@ -35,7 +35,7 @@ for k,v in tr["items"].items():
 rows.sort(key=lambda r:-r["chg"])
 hint={"layoff_th":("Labour-intensive manufacturing, exporters, retail staff costs","อุตสาหกรรมใช้แรงงานมาก ผู้ส่งออก ค้าปลีก"),"factory_close_th":("Manufacturing / industrial estates, auto parts, SME suppliers","ภาคการผลิต นิคมฯ ชิ้นส่วนยานยนต์ SME"),"rating_th":("Corporate bond issuers, interest in credit ratings","ผู้ออกหุ้นกู้ ความสนใจอันดับเครดิต"),"bankrupt_th":("Broad corporate / SME distress","ความเครียดธุรกิจ/SME ทั่วไป")}
 top=[dict(r,hint=hint.get(r["key"],("General","ทั่วไป"))[0],hint_th=hint.get(r["key"],("General","ทั่วไป"))[1]) for r in rows[:3]]
-json.dump(dict(updated=NOW,method="Avg of last 4 weeks vs previous 12 weeks, Google Trends TH weekly (0-100), stress/credit/consumer words with base ≥3. Data pulled "+tr["retrieved"] if isinstance(tr.get("retrieved"),str) else "",top=top,all=rows[:10],source="https://piyaster11.github.io/thai-credit-trends/"),open("data/stress.json","w"),ensure_ascii=False,indent=1)
+json.dump(dict(updated=NOW,method="Avg of last 4 weeks vs previous 12 weeks, Google Trends TH weekly (0-100), stress/credit/consumer words with base ≥3. Data pulled "+tr["retrieved"] if isinstance(tr.get("retrieved"),str) else "",top=top,all=rows[:10],source="https://piyaster11.github.io/thaicreditradar/"),open("data/stress.json","w"),ensure_ascii=False,indent=1)
 
 S=dict(updated=NOW,company="TU",story="Thai Union: TRIS outlook cut to Negative, plus social media chatter (Sep–Oct 2026)",story_th="ไทยยูเนี่ยน: ทริสปรับแนวโน้มเป็นลบ และกระแสบนโซเชียล (ก.ย.–ต.ค. 69)",
 verified=[dict(en="TRIS affirmed TU at A+ and revised its outlook to Negative from Stable (25 Sep 2026).",th="ทริสคงอันดับ TU ที่ A+ ปรับแนวโน้มเป็นลบ (25 ก.ย. 69)",url="https://hoonsmart.com/archives/440608",url2="https://x.com/thaibma/status/2103455245179228470",src="HoonSmart + ThaiBMA official X account"),

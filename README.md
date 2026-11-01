@@ -1,5 +1,5 @@
 # Thai Credit Brief · สรุปเครดิตไทย
-Live: https://piyaster11.github.io/thaicreditbrief/ · Companion: https://piyaster11.github.io/thai-credit-trends/
+Live: https://piyaster11.github.io/thaicreditbrief/ · Companion: https://piyaster11.github.io/thaicreditradar/
 
 This is training material for the Krungsri CA AI workshop (4 Nov 2026). It shows what 4 Grok Bot routines found, plus a public credit screen, for 12 well-known SET-listed companies. It uses **public information only, with no bank or client data. It is an illustrative screen, not a lending decision or a client/prospect list.**
 
