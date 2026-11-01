@@ -28,7 +28,7 @@ function thrText(){const t=D.screen.thresholds;return Object.keys(TH).map(k=>{co
 function render(){document.body.dataset.lg=L;document.documentElement.lang=L;document.querySelectorAll('.seg button').forEach(b=>b.classList.toggle('on',b.dataset.lang===L));
 const W=D.watchlist.items,nm=s=>{const w=W.find(x=>x.sym===s);return w?T(w.name,w.name_th):s};
 badge.textContent=T('Krungsri CA AI Workshop · 4 Nov 2026 · public data only','เวิร์กช็อป AI สำหรับ CA กรุงศรี · 4 พ.ย. 69 · ข้อมูลสาธารณะเท่านั้น');
-title.innerHTML=T('Thai Credit <em>Brief</em>: what 4 Grok Bot routines found this morning','สรุป<em>เครดิตไทย</em>: สิ่งที่ Grok Bot 4 งานอัตโนมัติหาเจอเช้านี้');
+title.innerHTML=T('Thai Credit <em>Brief</em>','สรุป<em>เครดิตไทย</em>');
 sub.textContent=T('Real results from public sources for 12 well-known SET-listed companies: a morning briefing, rating watch, credit-stress pulse, social sentiment check and a public credit screen. Every item links to its source.','ผลจริงจากแหล่งสาธารณะ สำหรับ 12 บริษัทจดทะเบียนที่รู้จักดี: สรุปข่าวเช้า เฝ้าดูเรตติ้ง ชีพจรความเครียดเครดิต เช็กกระแสโซเชียล และสกรีนเครดิตบริษัทมหาชน ทุกข้อมีลิงก์แหล่งที่มา');
 const ch=D.ratings.items.filter(r=>r.flag==='up'||r.flag==='down').length;
 stats.innerHTML=[[W.length,T('companies','บริษัท')],['1.00%',T('BOT policy rate','ดอกเบี้ยนโยบาย')],['33.70',T('THB/USD ref. 30 Oct','บาท/ดอลลาร์ 30 ต.ค.')],[ch,T('rating changes in 2026','การเปลี่ยนเรตติ้งปี 69')]].map(x=>`<div class="stat"><b>${x[0]}</b><span>${x[1]}</span></div>`).join('');
