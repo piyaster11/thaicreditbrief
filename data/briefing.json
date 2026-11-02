@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 09:30 (Bangkok, UTC+7)",
+ "updated": "2026-11-02 07:40 (Bangkok, UTC+7)",
  "items": [
   {
    "en": "BOT's MPC held the policy rate at 1.00% on 28 Oct 2026 (unanimous, 4th straight hold). 2026 GDP forecast 2.4%; corporate credit growing but SME loans still contracting. Next meeting 23 Dec.",
@@ -10,19 +10,20 @@
    "url2": "https://www.channelnewsasia.com/business/thai-central-bank-keeps-interest-rate-unchanged-expected-6499181"
   },
   {
-   "en": "Baht: BOT USD reference rate 33.701 on 30 Oct 2026, from 33.748 on 29 Oct and 33.815 on 28 Oct, so the baht firmed slightly. Exporters (TU, CPF) are sensitive to the baht level.",
-   "th": "ค่าเงินบาท: อัตราอ้างอิง ธปท. 33.701 บาท/ดอลลาร์ (30 ต.ค. 69) จาก 33.748 (29 ต.ค.) บาทแข็งค่าเล็กน้อย กระทบผู้ส่งออกอย่าง TU, CPF",
-   "tag": "Baht",
-   "so": "Bank of Thailand statistics",
-   "url": "https://app.bot.or.th/BTWS_STAT/statistics/BOTWEBSTAT.aspx?language=ENG&reportID=123"
+   "en": "SET fell 2.82% last week to 1,518.59 on 30 Oct 2026, a 5½-month low (intraday 1,511.58), led by electronics and petrochemicals after weak Q3 results and refiners after the new oil pricing structure. KS sees 1,500–1,550 for 2–6 Nov; watch US midterms (3 Nov), Thai October CPI and Q3 earnings.",
+   "th": "SET ร่วง 2.82% สัปดาห์ก่อน ปิด 1,518.59 จุด (30 ต.ค. 69) ต่ำสุดรอบ 5 เดือนครึ่ง (ระหว่างวัน 1,511.58) กดดันจากหุ้นอิเล็กทรอนิกส์และปิโตรเคมีหลังงบ Q3 ต่ำกว่าคาด และโรงกลั่นจากโครงสร้างราคาน้ำมันใหม่ บล.กสิกรฯ คาดกรอบ 1,500–1,550 (2–6 พ.ย.) ติดตามเลือกตั้งกลางเทอมสหรัฐฯ (3 พ.ย.) CPI ไทย ต.ค. และงบ Q3",
+   "tag": "Equity market",
+   "so": "Money & Banking (Kasikorn Securities); MGR Online",
+   "url": "https://en.moneyandbanking.co.th/2026/283403/",
+   "url2": "https://mgronline.com/stockmarket/detail/9690000104727"
   },
   {
-   "en": "Corporate bonds (หุ้นกู้): 9M-2026 long-term issuance THB 629.7bn, -1.6% y/y; ThaiBMA says the full-year THB 880bn target may be missed. 5Y yields at end-Q3: AAA 2.06%, AA 2.45%, A 2.71%, BBB+ 4.19%. High-grade issuers still placing; issuers rated BBB and below or unrated pay 4.6–7.3% in Oct deals.",
-   "th": "หุ้นกู้: 9 เดือนแรกปี 69 ออกหุ้นกู้ระยะยาว 629,662 ล้านบาท (-1.6%) ThaiBMA คาดอาจไม่ถึงเป้า 8.8 แสนล้าน ผลตอบแทน 5 ปี AAA 2.06% / AA 2.45% / A 2.71% / BBB+ 4.19% หุ้นกู้ BBB ลงไปหรือไม่มีเรตติ้งในเดือน ต.ค. ให้ดอกเบี้ย 4.6–7.3%",
-   "tag": "Bond market",
-   "so": "ThaiBMA Q3-2026 press release; Prachachat",
-   "url": "https://www.thaibma.or.th/doc/press/y2026/Press-Q32026.pdf",
-   "url2": "https://www.prachachat.net/finance/news-2074514"
+   "en": "TRIS 9M-2026 review: 24 downgrades vs 5 upgrades and 4 defaults (9M-2025: 33 / 11 / 3). Property developers took 9 downgrades, regulated utilities 5, restaurants 2. Outlook revisions: 12 negative, 11 positive; agri-food (TU) and petrochemicals (IVL) among the negative. CPN's upgrade to AA+ was the largest by issue size.",
+   "th": "ทริสสรุป 9 เดือนแรกปี 69: ปรับลด 24 ครั้ง ปรับขึ้น 5 ครั้ง ผิดนัด 4 ครั้ง (ปีก่อน 33/11/3) อสังหาฯ ถูกลด 9 ครั้ง สาธารณูปโภค 5 ร้านอาหาร 2 ปรับแนวโน้มลบ 12 บวก 11 รวมกลุ่มเกษตร-อาหาร (TU) และปิโตรเคมี (IVL) ขณะที่ CPN ถูกปรับขึ้นเป็น AA+",
+   "tag": "Credit trend",
+   "so": "Bangkok Post; Krungthep Turakij (TRIS 9M-2026 summary)",
+   "url": "https://www.bangkokpost.com/business/general/3338554/thai-corporate-credit-weakens-in-2026",
+   "url2": "https://www.bangkokbiznews.com/finance/stock/1257262"
   },
   {
    "en": "Tourism: 24.93m foreign arrivals from 1 Jan to 24 Oct 2026 (-4.43% y/y), spending THB 1.21tn (-2.68%). Weekly arrivals rose 3% as long-haul markets picked up; China arrivals fell 24% w/w. This matters for MINT, CENTEL and AOT.",
