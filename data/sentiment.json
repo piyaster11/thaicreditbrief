@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02 07:40 (Bangkok, UTC+7)",
+ "updated": "2026-11-03 07:39 (Bangkok, UTC+7)",
  "company": "TU",
- "story": "Thai Union: TRIS outlook cut to Negative, plus social media chatter (Sep–Oct 2026)",
- "story_th": "ไทยยูเนี่ยน: ทริสปรับแนวโน้มเป็นลบ และกระแสบนโซเชียล (ก.ย.–ต.ค. 69)",
+ "story": "Thai Union: Q3 2026 results vs TRIS Negative outlook, plus social media chatter (Sep–Nov 2026)",
+ "story_th": "ไทยยูเนี่ยน: งบ Q3/69 เทียบกับแนวโน้มเครดิตลบของทริส และกระแสบนโซเชียล (ก.ย.–พ.ย. 69)",
  "verified": [
   {
    "en": "TRIS affirmed TU at A+ and revised its outlook to Negative from Stable (25 Sep 2026).",
@@ -12,17 +12,29 @@
    "src": "HoonSmart + ThaiBMA official X account"
   },
   {
-   "en": "i-Tail (79.3% owned by TU) completed its US$160m acquisition of Phelps Pet Products (Oct 2026).",
-   "th": "i-Tail (TU ถือ 79.3%) ซื้อ Phelps Pet Products 160 ล้านดอลลาร์ สำเร็จ (ต.ค. 69)",
+   "en": "TU Q3 2026 (reported 2 Nov): sales THB 35.7bn (+3.4% y/y), operating profit +16.2% to THB 2.1bn, gross margin 20.4%, net profit THB 1.35bn (+3.2%).",
+   "th": "TU งบ Q3/69 (2 พ.ย.): ยอดขาย 35,679 ล้านบาท (+3.4%) กำไรจากการดำเนินงาน 2,087 ล้านบาท (+16.2%) อัตรากำไรขั้นต้น 20.4% กำไรสุทธิ 1,346 ล้านบาท (+3.2%)",
+   "url": "https://www.kaohooninternational.com/markets/593729",
+   "url2": "https://www.bangkokbiznews.com/finance/stock/1258982",
+   "src": "Kaohoon International; Krungthep Turakij (company results release)"
+  },
+  {
+   "en": "TU's FY2026 guidance: sales growth 4–6%, gross margin about 19.5–20.5%; capex guidance cut to about THB 4.0–4.5bn from THB 5.0–5.5bn.",
+   "th": "เป้าปี 69 ของ TU: ยอดขายโต 4–6% อัตรากำไรขั้นต้นราว 19.5–20.5% ลดงบลงทุนเหลือราว 4.0–4.5 พันล้านบาท จาก 5.0–5.5 พันล้านบาท",
+   "url": "https://quartr.com/events/thai-union-group-public-company-tu-q3-2026_FPXz7bDa",
+   "src": "Quartr Q3 2026 earnings summary (transcript and slides)"
+  },
+  {
+   "en": "i-Tail completed its US$160m (enterprise value) acquisition of Phelps Pet Products (announced 26 Oct 2026).",
+   "th": "i-Tail ซื้อ Phelps Pet Products มูลค่ากิจการ 160 ล้านดอลลาร์ สำเร็จ (ประกาศ 26 ต.ค. 69)",
    "url": "https://www.i-tail.com/en/newsroom/news-and-activities/718/i-tail-completes-acquisition-of-phelps-pet-products-strengthening-us-presence-and-broadening-pet-treats-portfolio",
    "src": "i-Tail newsroom (company)"
   },
   {
-   "en": "TU fully impaired its Red Lobster minority stake (about US$530m non-cash) in 2023 and announced its exit in Jan 2024.",
-   "th": "TU ตัดด้อยค่าเงินลงทุน Red Lobster ทั้งหมด (~530 ล้านดอลลาร์ ไม่ใช่เงินสด) ปี 66 และประกาศถอนการลงทุน ม.ค. 67",
-   "url": "https://www.thaiunion.com/th/newsroom/press-release/1675/thai-union-group-announces-intention-to-pursue-exit-of-minority-investment-in-red-lobster",
-   "url2": "https://www.bloomberg.com/news/articles/2024-01-17/thai-tuna-canner-takes-530-million-charge-from-red-lobster-exit",
-   "src": "Thai Union press release; Bloomberg"
+   "en": "TU announced its exit from its Red Lobster minority stake in Jan 2024, with a one-time non-cash impairment of THB 18.5bn (about US$530m) in Q4 2023.",
+   "th": "TU ประกาศถอนการลงทุน Red Lobster ม.ค. 67 พร้อมตัดด้อยค่าครั้งเดียว (ไม่ใช่เงินสด) 18,500 ล้านบาท (~530 ล้านดอลลาร์) ใน Q4/66",
+   "url": "https://www.seafoodsource.com/news/business-finance/thai-union-to-divest-from-red-lobster-take-usd-530-million-impairment-charge",
+   "src": "SeafoodSource (quoting TU's 16 Jan 2024 announcement)"
   }
  ],
  "unverified": [
@@ -39,10 +51,22 @@
    "check": "This is a reputational / ESG risk flag only. Verify before citing."
   },
   {
-   "en": "A broker post says '2026 sales expected +4–6%'. This is a broker forecast, not a fact.",
-   "th": "โพสต์โบรกเกอร์คาดยอดขายปี 69 +4–6% เป็นประมาณการ ไม่ใช่ข้อเท็จจริง",
+   "en": "A broker post gives a short-term target of THB 13.50 and expects 2026 sales +4–6%. The 4–6% now matches TU's own guidance, but the price target is a broker opinion, not a fact.",
+   "th": "โพสต์โบรกเกอร์ให้เป้าระยะสั้น 13.50 บาท และคาดยอดขายปี 69 +4–6% ตัวเลข 4–6% ตรงกับเป้าของบริษัท แต่ราคาเป้าหมายเป็นความเห็นโบรกเกอร์",
    "url": "https://x.com/invxsecurities/status/2103322343074574379",
    "check": "Compare with TU's own guidance in its MD&A / opportunity day."
+  },
+  {
+   "en": "Pre-results consensus (LSEG, 15 brokers) put the average TU target price at THB 15.04, with 11 of 15 at Buy/Strong Buy. These are forecasts and opinions, not facts, and may change after Q3.",
+   "th": "ก่อนประกาศงบ LSEG Consensus (15 โบรกเกอร์) ให้ราคาเป้าหมายเฉลี่ย 15.04 บาท แนะนำซื้อ 11 จาก 15 แห่ง เป็นประมาณการ ไม่ใช่ข้อเท็จจริง",
+   "url": "https://www.kaohoon.com/news/876403",
+   "check": "Treat as market expectation only; check updated broker notes after the 2 Nov results."
+  },
+  {
+   "en": "A trade-press headline says TU's frozen seafood volumes fell 11% as US shrimp demand weakened. Only the headline could be read (paywall), so the figure and its context are unconfirmed here.",
+   "th": "พาดหัวสื่อการค้าระบุปริมาณขายอาหารทะเลแช่แข็งของ TU ลดลง 11% จากอุปสงค์กุ้งในสหรัฐฯ อ่อนตัว อ่านได้เฉพาะพาดหัว (ติดเพย์วอลล์) ยังไม่ยืนยันตัวเลข",
+   "url": "https://www.undercurrentnews.com/2026/11/02/thai-unions-frozen-seafood-volumes-fall-11-as-us-shrimp-demand-weakens-despite-group-profit-growth/",
+   "check": "Check TU's Q3 2026 MD&A (frozen segment volumes) before citing."
   }
  ],
  "lesson": "AI drafts, you verify: anything without an official source stays 'unverified', however many likes it has."

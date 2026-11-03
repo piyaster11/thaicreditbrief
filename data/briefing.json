@@ -1,45 +1,45 @@
 {
- "updated": "2026-11-02 07:40 (Bangkok, UTC+7)",
+ "updated": "2026-11-03 07:39 (Bangkok, UTC+7)",
  "items": [
   {
-   "en": "BOT's MPC held the policy rate at 1.00% on 28 Oct 2026 (unanimous, 4th straight hold). 2026 GDP forecast 2.4%; corporate credit growing but SME loans still contracting. Next meeting 23 Dec.",
-   "th": "กนง. คงดอกเบี้ยนโยบาย 1.00% (28 ต.ค. 69) เป็นเอกฉันท์ ครั้งที่ 4 ติด คาด GDP ปี 69 โต 2.4% สินเชื่อธุรกิจใหญ่ขยายตัว แต่สินเชื่อ SME ยังหดตัว ประชุมครั้งถัดไป 23 ธ.ค.",
-   "tag": "BOT rate",
-   "so": "Bank of Thailand",
-   "url": "https://www.bot.or.th/en/news-and-media/news/mpc/news-20261028-5FWvBPSf.html",
-   "url2": "https://www.channelnewsasia.com/business/thai-central-bank-keeps-interest-rate-unchanged-expected-6499181"
-  },
-  {
-   "en": "SET fell 2.82% last week to 1,518.59 on 30 Oct 2026, a 5½-month low (intraday 1,511.58), led by electronics and petrochemicals after weak Q3 results and refiners after the new oil pricing structure. KS sees 1,500–1,550 for 2–6 Nov; watch US midterms (3 Nov), Thai October CPI and Q3 earnings.",
-   "th": "SET ร่วง 2.82% สัปดาห์ก่อน ปิด 1,518.59 จุด (30 ต.ค. 69) ต่ำสุดรอบ 5 เดือนครึ่ง (ระหว่างวัน 1,511.58) กดดันจากหุ้นอิเล็กทรอนิกส์และปิโตรเคมีหลังงบ Q3 ต่ำกว่าคาด และโรงกลั่นจากโครงสร้างราคาน้ำมันใหม่ บล.กสิกรฯ คาดกรอบ 1,500–1,550 (2–6 พ.ย.) ติดตามเลือกตั้งกลางเทอมสหรัฐฯ (3 พ.ย.) CPI ไทย ต.ค. และงบ Q3",
+   "en": "SET fell 11.39 points (-0.75%) to 1,507.20 on 2 Nov 2026 (value THB 55.79bn), pressured by DELTA slipping below THB 200 and PTTEP leading energy lower. Analysts expect sideways, volatile trade near the 1,500 support; KSecurities sees support at 1,515/1,500 and resistance at 1,530/1,550 for 2–6 Nov.",
+   "th": "SET ปิด 1,507.20 จุด ลดลง 11.39 จุด (-0.75%) วันที่ 2 พ.ย. 69 มูลค่าซื้อขาย 55,798.72 ล้านบาท กดดันจาก DELTA หลุด 200 บาท และ PTTEP นำกลุ่มพลังงานลง นักวิเคราะห์คาดแกว่งผันผวนใกล้แนวรับ 1,500 จุด บล.กสิกรฯ ให้แนวรับ 1,515/1,500 แนวต้าน 1,530/1,550 (2–6 พ.ย.)",
    "tag": "Equity market",
-   "so": "Money & Banking (Kasikorn Securities); MGR Online",
-   "url": "https://en.moneyandbanking.co.th/2026/283403/",
-   "url2": "https://mgronline.com/stockmarket/detail/9690000104727"
+   "so": "Kaohoon International; Kasikorn Research Center (KSecurities)",
+   "url": "https://www.kaohooninternational.com/markets/593724",
+   "url2": "https://www.kasikornresearch.com/en/analysis/k-econ/financial/Pages/MSMR02112026.aspx"
   },
   {
-   "en": "TRIS 9M-2026 review: 24 downgrades vs 5 upgrades and 4 defaults (9M-2025: 33 / 11 / 3). Property developers took 9 downgrades, regulated utilities 5, restaurants 2. Outlook revisions: 12 negative, 11 positive; agri-food (TU) and petrochemicals (IVL) among the negative. CPN's upgrade to AA+ was the largest by issue size.",
-   "th": "ทริสสรุป 9 เดือนแรกปี 69: ปรับลด 24 ครั้ง ปรับขึ้น 5 ครั้ง ผิดนัด 4 ครั้ง (ปีก่อน 33/11/3) อสังหาฯ ถูกลด 9 ครั้ง สาธารณูปโภค 5 ร้านอาหาร 2 ปรับแนวโน้มลบ 12 บวก 11 รวมกลุ่มเกษตร-อาหาร (TU) และปิโตรเคมี (IVL) ขณะที่ CPN ถูกปรับขึ้นเป็น AA+",
-   "tag": "Credit trend",
-   "so": "Bangkok Post; Krungthep Turakij (TRIS 9M-2026 summary)",
-   "url": "https://www.bangkokpost.com/business/general/3338554/thai-corporate-credit-weakens-in-2026",
-   "url2": "https://www.bangkokbiznews.com/finance/stock/1257262"
+   "en": "US midterms (vote 3 Nov; results expected Wednesday morning Thai time per Krungsri Securities): Tisco Securities says stronger checks and balances could ease policy uncertainty and help Thai stocks recover in the second half of November. KKP Research says a divided Congress is largely priced in and not a 'game changer' for Thailand; the main risk is emerging-market outflows. Watch also a possible US strike on Iran after the vote (oil risk).",
+   "th": "เลือกตั้งกลางเทอมสหรัฐฯ (3 พ.ย. ผลออกเช้าวันพุธเวลาไทย ตาม บล.กรุงศรี) บล.ทิสโก้มองการถ่วงดุลอำนาจช่วยลดความไม่แน่นอน หุ้นไทยอาจฟื้นช่วงครึ่งหลัง พ.ย. ขณะที่ KKP Research มองว่าตลาดรับรู้สภาคองเกรสแบ่งขั้วไปแล้ว ไม่ใช่ 'game changer' ของไทย ความเสี่ยงหลักคือเงินทุนไหลออกจากตลาดเกิดใหม่ และต้องจับตาความเสี่ยงสหรัฐฯ โจมตีอิหร่านหลังเลือกตั้ง (กระทบราคาน้ำมัน)",
+   "tag": "US midterms",
+   "so": "Bangkok Post; Nation Thailand (KKP Research)",
+   "url": "https://www.bangkokpost.com/business/general/3347560/analysts-see-benefits-from-us-midterms",
+   "url2": "https://www.nationthailand.com/business/economy/40073025"
   },
   {
-   "en": "Tourism: 24.93m foreign arrivals from 1 Jan to 24 Oct 2026 (-4.43% y/y), spending THB 1.21tn (-2.68%). Weekly arrivals rose 3% as long-haul markets picked up; China arrivals fell 24% w/w. This matters for MINT, CENTEL and AOT.",
-   "th": "ท่องเที่ยว: นักท่องเที่ยวต่างชาติ 1 ม.ค.–24 ต.ค. 69 รวม 24.93 ล้านคน (-4.43%) รายได้ 1.21 ล้านล้านบาท (-2.68%) รายสัปดาห์ +3% จากตลาดระยะไกล จีน -24% กระทบ MINT, CENTEL, AOT",
+   "en": "BOT's MPC held the policy rate at 1.00% on 28 Oct 2026 (unanimous). BOT projects 2026 GDP growth of 2.4% and headline inflation averaging 2.1%, rising through year-end on energy and El Niño; corporate credit growing but SME loans still contracting. Thai October CPI is scheduled for release on Thu 5 Nov 2026 (Commerce Ministry/TPSO calendar).",
+   "th": "กนง. คงดอกเบี้ยนโยบาย 1.00% (28 ต.ค. 69) เป็นเอกฉันท์ ธปท. คาด GDP ปี 69 โต 2.4% เงินเฟ้อทั่วไปเฉลี่ย 2.1% และเร่งขึ้นช่วงปลายปีจากราคาพลังงานและเอลนีโญ สินเชื่อธุรกิจใหญ่ขยายตัว แต่สินเชื่อ SME ยังหดตัว ดัชนีราคาผู้บริโภค (CPI) เดือน ต.ค. มีกำหนดแถลงวันพฤหัสบดีที่ 5 พ.ย. 69 (ปฏิทิน สนค.)",
+   "tag": "BOT / CPI",
+   "so": "Bank of Thailand; Trade Policy and Strategy Office (TPSO)",
+   "url": "https://www.bot.or.th/en/news-and-media/news/mpc/news-20261028-5FWvBPSf.html",
+   "url2": "https://www.tpso.go.th/Page-uh9h8"
+  },
+  {
+   "en": "Tourism: 25.46m foreign arrivals from 1 Jan to 31 Oct 2026 (-4.59% y/y), spending THB 1.24tn. Week of 25–31 Oct: arrivals +7.31% w/w to 538,661, with long-haul +13.60% w/w (5th straight weekly gain; Russia +27% y/y). China remains the top 10-month market (4.24m). Relevant for MINT, CENTEL and AOT.",
+   "th": "ท่องเที่ยว: นักท่องเที่ยวต่างชาติ 1 ม.ค.–31 ต.ค. 69 รวม 25.46 ล้านคน (-4.59%) รายได้ 1.24 ล้านล้านบาท สัปดาห์ 25–31 ต.ค. +7.31% เป็น 538,661 คน ตลาดระยะไกล +13.60% (เพิ่มขึ้น 5 สัปดาห์ติด รัสเซีย +27% YoY) จีนยังเป็นตลาดอันดับ 1 (4.24 ล้านคน) เกี่ยวข้องกับ MINT, CENTEL, AOT",
    "tag": "Tourism",
-   "so": "Khaosod English / Ministry of Tourism & Sports",
-   "url": "https://www.khaosodenglish.com/tourism/2026/10/27/thailand-welcomes-25-million-foreign-tourists-in-first-10-months/",
-   "url2": "https://www.kaohooninternational.com/economics/593345"
+   "so": "Nation Thailand / Ministry of Tourism & Sports; The Star (Reuters)",
+   "url": "https://www.nationthailand.com/news/tourism/40073019",
+   "url2": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/thailand039s-foreign-tourist-arrivals-down-459-on-year-so-far-in-2026"
   },
   {
-   "en": "Watchlist: TRIS kept Thai Union (TU) at A+ but revised its outlook to Negative from Stable (25 Sep 2026), because debt is falling more slowly than expected (debt/EBITDA expected to stay above 5x for 2–3 years). Separately, TU's subsidiary i-Tail closed the US$160m Phelps Pet Products deal (22 Oct).",
-   "th": "Watchlist: ทริสคง TU ที่ A+ แต่ปรับแนวโน้มเป็น \"ลบ\" (25 ก.ย. 69) เพราะหนี้ลดช้ากว่าคาด (หนี้/EBITDA เกิน 5 เท่า 2-3 ปี) และ i-Tail (บริษัทลูก) ปิดดีลซื้อ Phelps Pet Products 160 ล้านดอลลาร์ (22 ต.ค.)",
+   "en": "Watchlist: Thai Union (TU) reported Q3 2026 (2 Nov) sales of THB 35.7bn (+3.4% y/y), operating profit +16.2% to THB 2.1bn, gross margin 20.4% and net profit THB 1.35bn (+3.2%); management reaffirmed full-year guidance. Credit context: TRIS still has TU at A+ with a Negative outlook (since 25 Sep 2026) because debt is falling more slowly than expected.",
+   "th": "Watchlist: ไทยยูเนี่ยน (TU) งบ Q3/69 (2 พ.ย.) ยอดขาย 35,679 ล้านบาท (+3.4%) กำไรจากการดำเนินงาน +16.2% เป็น 2,087 ล้านบาท อัตรากำไรขั้นต้น 20.4% กำไรสุทธิ 1,346 ล้านบาท (+3.2%) ผู้บริหารยืนยันเป้าทั้งปี ด้านเครดิต ทริสยังคง TU ที่ A+ แนวโน้ม \"ลบ\" (ตั้งแต่ 25 ก.ย. 69) เพราะหนี้ลดช้ากว่าคาด",
    "tag": "Watchlist",
-   "so": "HoonSmart; i-Tail newsroom",
-   "url": "https://hoonsmart.com/archives/440608",
-   "url2": "https://www.i-tail.com/en/newsroom/news-and-activities/718/i-tail-completes-acquisition-of-phelps-pet-products-strengthening-us-presence-and-broadening-pet-treats-portfolio"
+   "so": "Kaohoon International (TU results); HoonSmart (TRIS)",
+   "url": "https://www.kaohooninternational.com/markets/593729",
+   "url2": "https://hoonsmart.com/archives/440608"
   }
  ]
 }
