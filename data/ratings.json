@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 07:34 (Bangkok, UTC+7)",
- "checked": "4 Nov 2026",
+ "updated": "2026-11-05 07:45 (Bangkok, UTC+7)",
+ "checked": "5 Nov 2026",
  "items": [
   {
    "sym": "CPN",
@@ -74,7 +74,7 @@
    "rating": "A+",
    "outlook": "Negative (from Stable)",
    "date": "25 Sep 2026",
-   "change": "Outlook cut to Negative",
+   "change": "Outlook cut to Negative (25 Sep); TRIS said 4 Nov the US pet-food acquisition has no immediate rating impact",
    "flag": "down",
    "url": "https://hoonsmart.com/archives/440608",
    "url2": "https://x.com/thaibma/status/2103455245179228470"
@@ -84,11 +84,11 @@
    "agency": "TRIS",
    "rating": "AA+",
    "outlook": "Stable",
-   "date": "Last action Nov 2025; reconfirmed in May 2026 factsheet",
+   "date": "2 Nov 2026",
    "change": "Affirmed",
    "flag": "none",
-   "url": "https://investor.bdms.co.th/storage/general-info/bdms-at-a-glance/20260515-bdms-at-glance.pdf",
-   "url2": null
+   "url": "https://www.trisrating.com/",
+   "url2": "https://investor.bdms.co.th/storage/general-info/bdms-at-a-glance/20260515-bdms-at-glance.pdf"
   },
   {
    "sym": "BH",
