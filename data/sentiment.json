@@ -1,78 +1,74 @@
 {
- "updated": "2026-11-05 07:45 (Bangkok, UTC+7)",
- "company": "TU",
- "story": "Thai Union: Q3 2026 results vs TRIS Negative outlook, plus social media chatter (Sep–Nov 2026)",
- "story_th": "ไทยยูเนี่ยน: งบ Q3/69 เทียบกับแนวโน้มเครดิตลบของทริส และกระแสบนโซเชียล (ก.ย.–พ.ย. 69)",
+ "updated": "2026-11-06 07:40 (Bangkok, UTC+7)",
+ "company": "GULF",
+ "story": "GULF: Q3 2026 results beat and share rebound vs broker forecasts and TRIS AA- Stable (5 Nov 2026)",
+ "story_th": "GULF: งบ Q3/69 สูงกว่าคาดและหุ้นดีด เทียบประมาณการโบรกเกอร์ และอันดับเครดิตทริส AA- Stable (5 พ.ย. 69)",
  "verified": [
   {
-   "en": "TRIS affirmed TU at A+ and revised its outlook to Negative from Stable (25 Sep 2026).",
-   "th": "ทริสคงอันดับ TU ที่ A+ ปรับแนวโน้มเป็นลบ (25 ก.ย. 69)",
-   "url": "https://hoonsmart.com/archives/440608",
-   "url2": "https://x.com/thaibma/status/2103455245179228470",
-   "src": "HoonSmart + ThaiBMA official X account"
+   "en": "GULF Q3 2026 (company release): total revenue THB 52,809m (+75% y/y), core profit THB 9,045m (+24%), EBITDA THB 15,265m (+12%), net profit attributable to parent THB 9,289m (+28% y/y).",
+   "th": "GULF งบ Q3/69 (บริษัท): รายได้รวม 52,809 ล้านบาท (+75%) กำไรจากการดำเนินงาน 9,045 ล้านบาท (+24%) EBITDA 15,265 ล้านบาท (+12%) กำไรสุทธิส่วนบริษัทใหญ่ 9,289 ล้านบาท (+28% y/y)",
+   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
+   "url2": "https://www.infoquest.co.th/2026/674871",
+   "src": "GULF IR; InfoQuest F45 summary"
   },
   {
-   "en": "TRIS said on 4 Nov 2026 that TU's US pet-food acquisition will have no immediate impact on TU's credit rating.",
-   "th": "ทริสระบุ (4 พ.ย. 69) ว่าการซื้อกิจการอาหารสัตว์เลี้ยงในสหรัฐฯ ของ TU ยังไม่มีผลกระทบในทันทีต่ออันดับเครดิต",
-   "url": "https://www.trisrating.com/",
-   "src": "TRIS Rating news list (rating agency)"
+   "en": "Balance sheet (30 Sep 2026): total assets THB 841,610m, total liabilities THB 478,774m, equity THB 362,836m; net interest-bearing debt to equity 1.02x (from 1.06x at 30 Jun 2026).",
+   "th": "งบดุล (30 ก.ย. 69): สินทรัพย์รวม 841,610 ล้านบาท หนี้สินรวม 478,774 ล้านบาท ส่วนของผู้ถือหุ้น 362,836 ล้านบาท อัตราส่วนหนี้สินที่มีภาระดอกเบี้ยสุทธิต่อส่วนของผู้ถือหุ้น 1.02 เท่า (จาก 1.06 เท่า ณ 30 มิ.ย. 69)",
+   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
+   "src": "GULF IR"
   },
   {
-   "en": "TU Q3 2026 (reported 2 Nov): sales THB 35.7bn (+3.4% y/y), operating profit +16.2% to THB 2.1bn, gross margin 20.4%, net profit THB 1.35bn (+3.2%).",
-   "th": "TU งบ Q3/69 (2 พ.ย.): ยอดขาย 35,679 ล้านบาท (+3.4%) กำไรจากการดำเนินงาน 2,087 ล้านบาท (+16.2%) อัตรากำไรขั้นต้น 20.4% กำไรสุทธิ 1,346 ล้านบาท (+3.2%)",
-   "url": "https://www.kaohooninternational.com/markets/593729",
-   "url2": "https://www.bangkokbiznews.com/finance/stock/1258982",
-   "src": "Kaohoon International; Krungthep Turakij (company results release)"
+   "en": "AIS share of core profit THB 4,443m (+16% y/y); Jackson Generation share of core profit THB 932m (+67% y/y) on higher Capacity Payments (avg USD 329/MW/day vs USD 270).",
+   "th": "ส่วนแบ่งกำไร core จาก AIS 4,443 ล้านบาท (+16% y/y); จาก Jackson Generation 932 ล้านบาท (+67% y/y) จากค่า Capacity Payment ที่สูงขึ้น (เฉลี่ย 329 ดอลลาร์/MW/วัน จาก 270)",
+   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
+   "url2": "https://www.infoquest.co.th/2026/674883",
+   "src": "GULF IR; InfoQuest"
   },
   {
-   "en": "TU's FY2026 guidance: sales growth 4–6%, gross margin about 19.5–20.5%; capex guidance cut to about THB 4.0–4.5bn from THB 5.0–5.5bn.",
-   "th": "เป้าปี 69 ของ TU: ยอดขายโต 4–6% อัตรากำไรขั้นต้นราว 19.5–20.5% ลดงบลงทุนเหลือราว 4.0–4.5 พันล้านบาท จาก 5.0–5.5 พันล้านบาท",
-   "url": "https://quartr.com/events/thai-union-group-public-company-tu-q3-2026_FPXz7bDa",
-   "src": "Quartr Q3 2026 earnings summary (transcript and slides)"
+   "en": "Company guidance unchanged: total revenue and EBITDA growth about 12–15% in 2026; four more domestic solar/BESS projects (373 MW) due to COD late Nov–Dec 2026.",
+   "th": "บริษัทยังคงเป้าปี 69: รายได้รวมและ EBITDA โตประมาณ 12–15%; โซลาร์/BESS ในประเทศอีก 4 โครงการ (373 MW) คาด COD ปลาย พ.ย.–ธ.ค. 69",
+   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
+   "url2": "https://www.thansettakij.com/finance/stockmarket/673067",
+   "src": "GULF IR (CFO Smith Banomyong); Thansettakij"
   },
   {
-   "en": "i-Tail completed its US$160m (enterprise value) acquisition of Phelps Pet Products (announced 26 Oct 2026).",
-   "th": "i-Tail ซื้อ Phelps Pet Products มูลค่ากิจการ 160 ล้านดอลลาร์ สำเร็จ (ประกาศ 26 ต.ค. 69)",
-   "url": "https://www.i-tail.com/en/newsroom/news-and-activities/718/i-tail-completes-acquisition-of-phelps-pet-products-strengthening-us-presence-and-broadening-pet-treats-portfolio",
-   "src": "i-Tail newsroom (company)"
+   "en": "TRIS company and debenture ratings remain AA- with Stable outlook (GULF IR credit-ratings page checked 6 Nov 2026). No new GULF rating action on TRIS’s Nov news list.",
+   "th": "ทริสคงอันดับองค์กรและหุ้นกู้ GULF ที่ AA- แนวโน้ม Stable (ตรวจหน้า IR วันที่ 6 พ.ย. 69) ไม่พบการจัดอันดับใหม่ของ GULF ในรายการข่าวทริสเดือน พ.ย.",
+   "url": "https://investor.gulf.co.th/th/debenture/credit-ratings",
+   "url2": "https://www.trisrating.com/api/rating-news",
+   "src": "GULF IR credit-ratings; TRIS Rating news API"
   },
   {
-   "en": "TU announced its exit from its Red Lobster minority stake in Jan 2024, with a one-time non-cash impairment of THB 18.5bn (about US$530m) in Q4 2023.",
-   "th": "TU ประกาศถอนการลงทุน Red Lobster ม.ค. 67 พร้อมตัดด้อยค่าครั้งเดียว (ไม่ใช่เงินสด) 18,500 ล้านบาท (~530 ล้านดอลลาร์) ใน Q4/66",
-   "url": "https://www.seafoodsource.com/news/business-finance/thai-union-to-divest-from-red-lobster-take-usd-530-million-impairment-charge",
-   "src": "SeafoodSource (quoting TU's 16 Jan 2024 announcement)"
+   "en": "On 5 Nov SET session, GULF closed at THB 62.50 (+1.50 / +2.46%) with the day’s highest AOM turnover (~THB 5.29bn).",
+   "th": "ในเซสชัน SET วันที่ 5 พ.ย. GULF ปิด 62.50 บาท (+1.50 / +2.46%) มูลค่าซื้อขาย AOM สูงสุดของวัน (~5,286 ล้านบาท)",
+   "url": "https://www.infoquest.co.th/2026/674841",
+   "src": "InfoQuest SET wrap"
   }
  ],
  "unverified": [
   {
-   "en": "Viral replies claim TU 'forced' Red Lobster into a shrimp contract to dump losses. This is opinion and not confirmed by an official source; it relates to a US lawsuit and media debate, not a TU filing.",
-   "th": "โพสต์ไวรัลอ้างว่า TU \"บังคับ\" Red Lobster ทำสัญญากุ้งเพื่อโยนขาดทุน เป็นความเห็น ไม่มีแหล่งทางการยืนยัน",
-   "url": "https://x.com/parafelfer/status/2110229439451910388",
-   "check": "Check against TU's SET filings and the Red Lobster bankruptcy court record before using it."
+   "en": "Kaohoon cites LSEG Consensus (pre/around results) of Q3 net profit THB 8,991.64m and an average 12-month target of THB 76.25 (13 brokers). Actual net profit was THB 9,289m — so the ‘beat’ framing depends on that consensus feed, which can revise.",
+   "th": "ข่าวหุ้นอ้าง LSEG Consensus คาดกำไรสุทธิ Q3 ราว 8,991.64 ล้านบาท และเป้าเฉลี่ย 76.25 บาท (13 โบรก) งบจริง 9,289 ล้านบาท — การบอกว่า ‘สูงกว่าคาด’ จึงขึ้นกับตัวเลข consensus ที่อาจปรับได้",
+   "url": "https://www.kaohoon.com/news/878294",
+   "check": "Treat consensus and average target as market expectation only; check updated broker notes after the 5 Nov print."
   },
   {
-   "en": "One account made a serious supply-chain labour allegation with no evidence in the post. Unverified: do not repeat it. Check TU's sustainability disclosures and credible NGO or government reports.",
-   "th": "มีบัญชีหนึ่งกล่าวหาเรื่องแรงงานในห่วงโซ่อุปทานโดยไม่มีหลักฐาน ยังไม่ยืนยัน ห้ามนำไปใช้ต่อ",
+   "en": "FSSIA note dated 3 Nov (pre-results) kept BUY with TP THB 89.50 and forecast Q3 net profit about THB 9.12bn (−26.7% q/q, +25.4% y/y). That is a broker opinion, not a company filing.",
+   "th": "บทวิเคราะห์ FSSIA วันที่ 3 พ.ย. (ก่อนงบ) คงคำแนะนำ BUY เป้า 89.50 บาท และคาดกำไรสุทธิ Q3 ราว 9.12 พันล้าน (−26.7% q/q, +25.4% y/y) เป็นความเห็นโบรกเกอร์ ไม่ใช่เอกสารบริษัท",
+   "url": "https://www.fnsyrus.com/uploads/research/20261103GULFDEVELOPMENT(GULFTB)-Strong2H26Earnings;ForecastUpgraded;MaintainBUYTPTHB89.50.pdf",
+   "check": "Compare with the actual 5 Nov release and any post-results note updates."
+  },
+  {
+   "en": "Some Thai press headlines say Q3 net profit fell about 25% q/q even as it rose ~28% y/y. The company IR page emphasises y/y figures; confirm the q/q base from the SET filing / MD&A before citing.",
+   "th": "พาดหัวสื่อไทยบางแห่งระบุว่ากำไรสุทธิ Q3 ลดลงราว 25% q/q แม้จะโต ~28% y/y หน้า IR ของบริษัทเน้นตัวเลข y/y ควรตรวจฐาน q/q จากแบบ 56-1 / MD&A ก่อนอ้าง",
    "url": null,
-   "check": "This is a reputational / ESG risk flag only. Verify before citing."
+   "check": "Open GULF’s SET Q3 filing for the prior-quarter comparable before using the q/q figure."
   },
   {
-   "en": "A broker post gives a short-term target of THB 13.50 and expects 2026 sales +4–6%. The 4–6% now matches TU's own guidance, but the price target is a broker opinion, not a fact.",
-   "th": "โพสต์โบรกเกอร์ให้เป้าระยะสั้น 13.50 บาท และคาดยอดขายปี 69 +4–6% ตัวเลข 4–6% ตรงกับเป้าของบริษัท แต่ราคาเป้าหมายเป็นความเห็นโบรกเกอร์",
-   "url": "https://x.com/invxsecurities/status/2103322343074574379",
-   "check": "Compare with TU's own guidance in its MD&A / opportunity day."
-  },
-  {
-   "en": "Pre-results consensus (LSEG, 15 brokers) put the average TU target price at THB 15.04, with 11 of 15 at Buy/Strong Buy. These are forecasts and opinions, not facts, and may change after Q3.",
-   "th": "ก่อนประกาศงบ LSEG Consensus (15 โบรกเกอร์) ให้ราคาเป้าหมายเฉลี่ย 15.04 บาท แนะนำซื้อ 11 จาก 15 แห่ง เป็นประมาณการ ไม่ใช่ข้อเท็จจริง",
-   "url": "https://www.kaohoon.com/news/876403",
-   "check": "Treat as market expectation only; check updated broker notes after the 2 Nov results."
-  },
-  {
-   "en": "A trade-press headline says TU's frozen seafood volumes fell 11% as US shrimp demand weakened. Only the headline could be read (paywall), so the figure and its context are unconfirmed here.",
-   "th": "พาดหัวสื่อการค้าระบุปริมาณขายอาหารทะเลแช่แข็งของ TU ลดลง 11% จากอุปสงค์กุ้งในสหรัฐฯ อ่อนตัว อ่านได้เฉพาะพาดหัว (ติดเพย์วอลล์) ยังไม่ยืนยันตัวเลข",
-   "url": "https://www.undercurrentnews.com/2026/11/02/thai-unions-frozen-seafood-volumes-fall-11-as-us-shrimp-demand-weakens-despite-group-profit-growth/",
-   "check": "Check TU's Q3 2026 MD&A (frozen segment volumes) before citing."
+   "en": "Pre-results chatter expected a sharp q/q drop mainly from lower KBANK dividends and no one-off gains. That narrative may still circulate on social media even after the print — verify against the company’s disclosed dividend income (THB 474m in Q3).",
+   "th": "กระแสก่อนงบคาดกำไรจะลดแรง q/q จากปันผล KBANK ที่ลดลงและไม่มีกำไรพิเศษ อาจยังวนบนโซเชียลหลังประกาศงบ — เทียบกับเงินปันผลรับที่บริษัทเปิดเผย (474 ล้านบาทใน Q3)",
+   "url": null,
+   "check": "Do not treat broker preview narratives as confirmed drivers unless the company states them."
   }
  ],
  "lesson": "AI drafts, you verify: anything without an official source stays 'unverified', however many likes it has."
