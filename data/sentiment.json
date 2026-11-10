@@ -1,74 +1,47 @@
 {
- "updated": "2026-11-09 07:50 (Bangkok, UTC+7)",
- "company": "GULF",
- "story": "GULF: Q3 2026 results beat and share rebound vs broker forecasts and TRIS AA- Stable (5 Nov 2026)",
- "story_th": "GULF: งบ Q3/69 สูงกว่าคาดและหุ้นดีด เทียบประมาณการโบรกเกอร์ และอันดับเครดิตทริส AA- Stable (5 พ.ย. 69)",
+ "updated": "2026-11-10 07:41 (Bangkok, UTC+7)",
+ "company": "CPN",
+ "story": "CPN: Q3 2026 net profit −9.1% y/y but core profit up — which headline is right? (9 Nov 2026)",
+ "story_th": "CPN: กำไรสุทธิ Q3/69 ลด 9.1% แต่กำไรหลักเพิ่ม — พาดหัวไหนถูก? (9 พ.ย. 69)",
  "verified": [
   {
-   "en": "GULF Q3 2026 (company release): total revenue THB 52,809m (+75% y/y), core profit THB 9,045m (+24%), EBITDA THB 15,265m (+12%), net profit attributable to parent THB 9,289m (+28% y/y).",
-   "th": "GULF งบ Q3/69 (บริษัท): รายได้รวม 52,809 ล้านบาท (+75%) กำไรจากการดำเนินงาน 9,045 ล้านบาท (+24%) EBITDA 15,265 ล้านบาท (+12%) กำไรสุทธิส่วนบริษัทใหญ่ 9,289 ล้านบาท (+28% y/y)",
-   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
-   "url2": "https://www.infoquest.co.th/2026/674871",
-   "src": "GULF IR; InfoQuest F45 summary"
+   "en": "SET filing (F45, reviewed): Q3 2026 net profit attributable to owners THB 4,931.73m vs THB 5,424.34m a year earlier (−9.1%); EPS THB 1.10 vs 1.21. 9M 2026 net profit THB 14,652.96m vs 13,956.48m (+5%); EPS THB 3.26 vs 3.11.",
+   "th": "แบบ F45 ที่ยื่นตลาดหลักทรัพย์ (สอบทาน): กำไรสุทธิส่วนของบริษัทใหญ่ Q3/69 4,931.73 ล้านบาท เทียบ 5,424.34 ล้านบาทปีก่อน (−9.1%) EPS 1.10 บาท จาก 1.21 บาท งวด 9 เดือน 14,652.96 ล้านบาท เทียบ 13,956.48 ล้านบาท (+5%) EPS 3.26 บาท จาก 3.11 บาท",
+   "url": "https://www.infoquest.co.th/2026/676249",
+   "src": "SET F45 via InfoQuest"
   },
   {
-   "en": "Balance sheet (30 Sep 2026): total assets THB 841,610m, total liabilities THB 478,774m, equity THB 362,836m; net interest-bearing debt to equity 1.02x (from 1.06x at 30 Jun 2026).",
-   "th": "งบดุล (30 ก.ย. 69): สินทรัพย์รวม 841,610 ล้านบาท หนี้สินรวม 478,774 ล้านบาท ส่วนของผู้ถือหุ้น 362,836 ล้านบาท อัตราส่วนหนี้สินที่มีภาระดอกเบี้ยสุทธิต่อส่วนของผู้ถือหุ้น 1.02 เท่า (จาก 1.06 เท่า ณ 30 มิ.ย. 69)",
-   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
-   "src": "GULF IR"
+   "en": "Why the headline is negative: the company says Q3 2025 included a THB 1,234m non-operating item from the Central Rama 2 lease renewal with CPNREIT. Excluding it, total operating revenue was THB 13,399m (+9% y/y). Rental and services revenue THB 11,882m (+10% y/y, record for the 5th quarter); hotels THB 506m (+11%, occupancy 77%); residential-for-sale THB 530m (−15%).",
+   "th": "ทำไมพาดหัวเป็นลบ: บริษัทระบุว่า Q3/68 มีรายได้ที่ไม่เกี่ยวกับการดำเนินงาน 1,234 ล้านบาท จากการต่อสัญญาเซ็นทรัล พระราม 2 กับ CPNREIT หากไม่รวม รายได้จากการดำเนินงานรวม 13,399 ล้านบาท (+9% y/y) ธุรกิจเช่าและบริการ 11,882 ล้านบาท (+10% y/y สูงสุดต่อเนื่องไตรมาสที่ 5) โรงแรม 506 ล้านบาท (+11% อัตราเข้าพัก 77%) อสังหาฯ เพื่อขาย 530 ล้านบาท (−15%)",
+   "url": "https://www.kaohoon.com/news/878923",
+   "url2": "https://www.bangkokbiznews.com/finance/stock/1259891",
+   "src": "CPN results release (via Kaohoon; Bangkok Biz News)"
   },
   {
-   "en": "AIS share of core profit THB 4,443m (+16% y/y); Jackson Generation share of core profit THB 932m (+67% y/y) on higher Capacity Payments (avg USD 329/MW/day vs USD 270).",
-   "th": "ส่วนแบ่งกำไร core จาก AIS 4,443 ล้านบาท (+16% y/y); จาก Jackson Generation 932 ล้านบาท (+67% y/y) จากค่า Capacity Payment ที่สูงขึ้น (เฉลี่ย 329 ดอลลาร์/MW/วัน จาก 270)",
-   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
-   "url2": "https://www.infoquest.co.th/2026/674883",
-   "src": "GULF IR; InfoQuest"
-  },
-  {
-   "en": "Company guidance unchanged: total revenue and EBITDA growth about 12–15% in 2026; four more domestic solar/BESS projects (373 MW) due to COD late Nov–Dec 2026.",
-   "th": "บริษัทยังคงเป้าปี 69: รายได้รวมและ EBITDA โตประมาณ 12–15%; โซลาร์/BESS ในประเทศอีก 4 โครงการ (373 MW) คาด COD ปลาย พ.ย.–ธ.ค. 69",
-   "url": "https://www.gulf.co.th/en/stories-and-insights/bf992d32-3373-44ff-905e-1592d2decc5b/gulf-reports-net-profit-of-thb-9-289-million-in-q3-2026-up",
-   "url2": "https://www.thansettakij.com/finance/stockmarket/673067",
-   "src": "GULF IR (CFO Smith Banomyong); Thansettakij"
-  },
-  {
-   "en": "TRIS company and debenture ratings remain AA- with Stable outlook (GULF IR credit-ratings page checked 6 Nov 2026). No new GULF rating action on TRIS’s Nov news list.",
-   "th": "ทริสคงอันดับองค์กรและหุ้นกู้ GULF ที่ AA- แนวโน้ม Stable (ตรวจหน้า IR วันที่ 6 พ.ย. 69) ไม่พบการจัดอันดับใหม่ของ GULF ในรายการข่าวทริสเดือน พ.ย.",
-   "url": "https://investor.gulf.co.th/th/debenture/credit-ratings",
-   "url2": "https://www.trisrating.com/api/rating-news",
-   "src": "GULF IR credit-ratings; TRIS Rating news API"
-  },
-  {
-   "en": "On 5 Nov SET session, GULF closed at THB 62.50 (+1.50 / +2.46%) with the day’s highest AOM turnover (~THB 5.29bn).",
-   "th": "ในเซสชัน SET วันที่ 5 พ.ย. GULF ปิด 62.50 บาท (+1.50 / +2.46%) มูลค่าซื้อขาย AOM สูงสุดของวัน (~5,286 ล้านบาท)",
-   "url": "https://www.infoquest.co.th/2026/674841",
-   "src": "InfoQuest SET wrap"
+   "en": "Company-reported core net profit THB 4,831m (+15% y/y, +4% q/q); gross margin 59.1% (vs 58.5%); operating profit THB 5,983m (+10%). Interest-bearing debt THB 63,731m (THB 67,172m in Q2); net debt/equity 0.44x (0.49x in Q2); interest cover 24.96x.",
+   "th": "กำไรสุทธิหลักตามที่บริษัทรายงาน 4,831 ล้านบาท (+15% y/y, +4% q/q) อัตรากำไรขั้นต้น 59.1% (จาก 58.5%) กำไรจากการดำเนินงาน 5,983 ล้านบาท (+10%) หนี้สินที่มีภาระดอกเบี้ย 63,731 ล้านบาท (Q2: 67,172 ล้านบาท) หนี้สินสุทธิต่อทุน 0.44 เท่า (Q2: 0.49 เท่า) ความสามารถชำระดอกเบี้ย 24.96 เท่า",
+   "url": "https://www.bangkokbiznews.com/finance/stock/1259891",
+   "src": "CPN results (via Bangkok Biz News)"
   }
  ],
  "unverified": [
   {
-   "en": "Kaohoon cites LSEG Consensus (pre/around results) of Q3 net profit THB 8,991.64m and an average 12-month target of THB 76.25 (13 brokers). Actual net profit was THB 9,289m — so the ‘beat’ framing depends on that consensus feed, which can revise.",
-   "th": "ข่าวหุ้นอ้าง LSEG Consensus คาดกำไรสุทธิ Q3 ราว 8,991.64 ล้านบาท และเป้าเฉลี่ย 76.25 บาท (13 โบรก) งบจริง 9,289 ล้านบาท — การบอกว่า ‘สูงกว่าคาด’ จึงขึ้นกับตัวเลข consensus ที่อาจปรับได้",
-   "url": "https://www.kaohoon.com/news/878294",
-   "check": "Treat consensus and average target as market expectation only; check updated broker notes after the 5 Nov print."
+   "en": "A FSSIA note (via Kaohoon) calls Q3 'core profit THB 4,932m, +18% y/y, 5% above our forecast and 4% above consensus'. That core figure equals the reported net profit and differs from the company's own core profit of THB 4,831m (+15%), so the 'beat' framing rests on the broker's definition and consensus feed.",
+   "th": "บทวิเคราะห์ FSSIA (ผ่านข่าวหุ้น) ระบุกำไรปกติ Q3 4,932 ล้านบาท +18% y/y สูงกว่าประมาณการ 5% และสูงกว่าตลาด 4% แต่ตัวเลขนี้เท่ากับกำไรสุทธิที่รายงาน และต่างจากกำไรหลักของบริษัทที่ 4,831 ล้านบาท (+15%) การบอกว่า 'สูงกว่าคาด' จึงขึ้นกับนิยามของโบรกและ consensus",
+   "url": "https://www.kaohoon.com/news/878995",
+   "check": "Use the company's own core-profit definition (MD&A) before quoting growth or 'beat' percentages."
   },
   {
-   "en": "FSSIA note dated 3 Nov (pre-results) kept BUY with TP THB 89.50 and forecast Q3 net profit about THB 9.12bn (−26.7% q/q, +25.4% y/y). That is a broker opinion, not a company filing.",
-   "th": "บทวิเคราะห์ FSSIA วันที่ 3 พ.ย. (ก่อนงบ) คงคำแนะนำ BUY เป้า 89.50 บาท และคาดกำไรสุทธิ Q3 ราว 9.12 พันล้าน (−26.7% q/q, +25.4% y/y) เป็นความเห็นโบรกเกอร์ ไม่ใช่เอกสารบริษัท",
-   "url": "https://www.fnsyrus.com/uploads/research/20261103GULFDEVELOPMENT(GULFTB)-Strong2H26Earnings;ForecastUpgraded;MaintainBUYTPTHB89.50.pdf",
-   "check": "Compare with the actual 5 Nov release and any post-results note updates."
+   "en": "The same FSSIA note expects Q4 to improve on high season and transfers of 3 condo projects, and keeps BUY with a THB 80 target (P/E 14–15x, ~4% dividend yield). This is a broker opinion and forecast, not a company commitment.",
+   "th": "บทวิเคราะห์เดียวกันคาด Q4 ดีขึ้นจากไฮซีซันและการโอนคอนโด 3 โครงการ คงคำแนะนำซื้อ เป้า 80 บาท (P/E 14–15 เท่า ผลตอบแทนปันผลราว 4%) เป็นความเห็นและประมาณการของโบรกเกอร์ ไม่ใช่คำมั่นของบริษัท",
+   "url": "https://www.kaohoon.com/news/878995",
+   "check": "Compare with CPN's own Q4 guidance and the actual Q4 transfer schedule; targets change."
   },
   {
-   "en": "Some Thai press headlines say Q3 net profit fell about 25% q/q even as it rose ~28% y/y. The company IR page emphasises y/y figures; confirm the q/q base from the SET filing / MD&A before citing.",
-   "th": "พาดหัวสื่อไทยบางแห่งระบุว่ากำไรสุทธิ Q3 ลดลงราว 25% q/q แม้จะโต ~28% y/y หน้า IR ของบริษัทเน้นตัวเลข y/y ควรตรวจฐาน q/q จากแบบ 56-1 / MD&A ก่อนอ้าง",
+   "en": "Headlines conflict: 'net profit down 9%' (InfoQuest/F45) versus 'profit up 15–18%' (Bangkok Biz News, Kaohoon). Both can be true because they use different bases (net profit incl. last year's one-off vs core profit). Social posts quoting only one number may mislead.",
+   "th": "พาดหัวขัดกัน: 'กำไรสุทธิลด 9%' (อินโฟเควสท์/F45) เทียบกับ 'กำไรเพิ่ม 15–18%' (กรุงเทพธุรกิจ, ข่าวหุ้น) ทั้งสองถูกได้เพราะใช้ฐานต่างกัน (กำไรสุทธิรวมรายการพิเศษปีก่อน เทียบกับกำไรหลัก) โพสต์โซเชียลที่อ้างตัวเลขเดียวอาจทำให้เข้าใจผิด",
    "url": null,
-   "check": "Open GULF’s SET Q3 filing for the prior-quarter comparable before using the q/q figure."
-  },
-  {
-   "en": "Pre-results chatter expected a sharp q/q drop mainly from lower KBANK dividends and no one-off gains. That narrative may still circulate on social media even after the print — verify against the company’s disclosed dividend income (THB 474m in Q3).",
-   "th": "กระแสก่อนงบคาดกำไรจะลดแรง q/q จากปันผล KBANK ที่ลดลงและไม่มีกำไรพิเศษ อาจยังวนบนโซเชียลหลังประกาศงบ — เทียบกับเงินปันผลรับที่บริษัทเปิดเผย (474 ล้านบาทใน Q3)",
-   "url": null,
-   "check": "Do not treat broker preview narratives as confirmed drivers unless the company states them."
+   "check": "Always state the basis (net vs core, with or without one-offs) before comparing y/y growth."
   }
  ],
  "lesson": "AI drafts, you verify: anything without an official source stays 'unverified', however many likes it has."
