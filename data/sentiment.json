@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-19 07:42 (Bangkok, UTC+7)",
- "company": "PTT",
- "story": "PTT: Q3 2026 profit 'doubles' — how much is real earnings? (reported 13–16 Nov 2026)",
- "story_th": "PTT: กำไร Q3/69 'โตเท่าตัว' — เป็นกำไรจากธุรกิจจริงเท่าไร? (ข่าว 13–16 พ.ย. 69)",
+ "updated": "2026-11-20 07:45 (Bangkok, UTC+7)",
+ "company": "BH",
+ "story": "BH shares fall 6.2% on 19 Nov 2026: is it Q4 guidance or foreign investors moving money to a US IPO?",
+ "story_th": "หุ้น BH ร่วง 6.2% วันที่ 19 พ.ย. 69: เพราะ guidance รายได้ Q4 หรือต่างชาติโยกเงินไปรอ IPO หุ้นสหรัฐ?",
  "verified": [
   {
-   "en": "Company figures (via Bangkok Biz News): Q3 2026 net profit THB 40,553m vs THB 19,784m in Q3 2025; revenue THB 784,015m (+21.2% y/y). Versus Q2 2026, net profit fell 22.8% from THB 52,525m, which the company attributes to gas-business seasonality and a goodwill impairment on its Malaysia project.",
-   "th": "ตัวเลขจากบริษัท (ผ่านกรุงเทพธุรกิจ): กำไรสุทธิ Q3/69 40,553 ล้านบาท เทียบ 19,784 ล้านบาทใน Q3/68 รายได้ 784,015 ล้านบาท (+21.2% y/y) เทียบ Q2/69 กำไรสุทธิลด 22.8% จาก 52,525 ล้านบาท ซึ่งบริษัทระบุว่าเป็นผลฤดูกาลของธุรกิจก๊าซและการด้อยค่าค่าความนิยมโครงการมาเลเซีย",
-   "url": "https://www.bangkokbiznews.com/finance/stock/1260544",
-   "src": "PTT results (via Bangkok Biz News)"
+   "en": "Price: BH closed at THB 181.00 on 19 Nov, down THB 12.00 (−6.22%), the most-traded stock of the day (THB 4,324.39m). It had fallen 3.98% to THB 193.00 on 18 Nov. SET itself was +0.04%.",
+   "th": "ราคา: BH ปิด 181.00 บาท วันที่ 19 พ.ย. ลด 12.00 บาท (−6.22%) มูลค่าซื้อขายสูงสุดของวัน (4,324.39 ล้านบาท) หลังลด 3.98% เหลือ 193.00 บาทเมื่อวันที่ 18 พ.ย. ขณะที่ SET +0.04%",
+   "url": "https://www.thansettakij.com/finance/stockmarket/674179",
+   "src": "Thansettakij (SET data)"
   },
   {
-   "en": "9M 2026: net profit THB 118,816m, up 83.8% from THB 64,632m; EBITDA THB 419,126m (+60.5%). The company reports an oil stock gain of about THB 37,800m in 9M 2026 versus a loss of about THB 4,000m a year earlier, and non-recurring items (mainly the PTTEP Malaysia block K goodwill impairment) of about −THB 8,500m after tax.",
-   "th": "9 เดือนแรกปี 69: กำไรสุทธิ 118,816 ล้านบาท เพิ่ม 83.8% จาก 64,632 ล้านบาท EBITDA 419,126 ล้านบาท (+60.5%) บริษัทระบุกำไรจากสต๊อกน้ำมันราว 37,800 ล้านบาท เทียบขาดทุนราว 4,000 ล้านบาทปีก่อน และรายการไม่เกิดขึ้นประจำสุทธิภาษีราว −8,500 ล้านบาท (หลักๆ การด้อยค่าค่าความนิยมแปลง เค มาเลเซียของ PTTEP)",
-   "url": "https://www.bangkokbiznews.com/finance/stock/1260544",
-   "src": "PTT results (via Bangkok Biz News)"
+   "en": "Company guidance (via Krungsri Securities): Q4 2026 revenue expected flat y/y because Middle East uncertainty affects travel and patient transfers, especially Qatari patients. Q3 treatment revenue +3% y/y (Thai +8%, foreign +0.2%); Qatar is about 16% of treatment revenue.",
+   "th": "Guidance จากบริษัท (ผ่าน บล.กรุงศรี): รายได้ Q4/69 ทรงตัว y/y เพราะความไม่แน่นอนในตะวันออกกลางกระทบการเดินทางและการส่งตัวผู้ป่วย โดยเฉพาะกาตาร์ รายได้รักษา Q3 +3% y/y (ไทย +8% ต่างชาติ +0.2%) กาตาร์ราว 16% ของรายได้รักษา",
+   "url": "https://www.infoquest.co.th/2026/682366",
+   "src": "InfoQuest (Krungsri Securities)"
   },
   {
-   "en": "Share price context: PTT closed at THB 38.00 on 13 Nov (−0.65%), the second most-traded stock that day (value THB 4,683.31m).",
-   "th": "ราคาหุ้น: PTT ปิด 38.00 บาท วันที่ 13 พ.ย. (−0.65%) เป็นหุ้นมูลค่าซื้อขายสูงเป็นอันดับ 2 ของวัน (4,683.31 ล้านบาท)",
-   "url": "https://www.kaohoon.com/summary/880940",
-   "src": "Kaohoon (SET data)"
+   "en": "Broker view: Krungsri Securities called the analyst meeting 'slightly negative' but kept Buy with a THB 225 target, saying the share price weakness does not fully reflect long-term growth (BIH Phuket opens Sep 2027).",
+   "th": "มุมมองโบรกเกอร์: บล.กรุงศรีมองการประชุมนักวิเคราะห์เป็น slightly negative แต่คง Buy เป้า 225 บาท โดยชี้ว่าราคาหุ้นที่อ่อนตัวยังไม่สะท้อนศักยภาพระยะยาวเต็มที่ (BIH ภูเก็ตเปิด ก.ย. 70)",
+   "url": "https://www.infoquest.co.th/2026/682366",
+   "src": "InfoQuest (Krungsri Securities)"
   }
  ],
  "unverified": [
   {
-   "en": "Headline wording: the article title says profit grew 'over 100%' while its text says 100.0%. Our own arithmetic from the two reported figures (40,553 / 19,784) gives about +105%. The percentage in a headline can differ from the figures it cites.",
-   "th": "ถ้อยคำพาดหัว: ชื่อข่าวระบุกำไรโต 'เกิน 100%' แต่เนื้อข่าวระบุ 100.0% เมื่อคำนวณเองจากสองตัวเลข (40,553 / 19,784) ได้ราว +105% เปอร์เซ็นต์ในพาดหัวอาจไม่ตรงกับตัวเลขที่อ้างถึง",
-   "url": "https://www.bangkokbiznews.com/finance/stock/1260544",
-   "check": "Recompute growth from the reported figures and use the company's own release (SET F45/MD&A) as the base."
+   "en": "Claim: the BH and BDMS fall comes from foreign investors selling to raise cash for a US IPO. A Krungthai XSpring analyst only said this 'may' be the case (18 Nov). The article gives no foreign-flow data by stock. SET-wide, foreigners sold THB 2,495.23m on 19 Nov, which does not show why BH fell.",
+   "th": "ข้ออ้าง: BH และ BDMS ลงเพราะต่างชาติขายเพื่อเตรียมเงินรอ IPO หุ้นสหรัฐ นักวิเคราะห์ บล.กรุงไทย เอ็กซ์สปริงระบุเพียงว่า 'อาจ' เป็นเช่นนั้น (18 พ.ย.) ข่าวไม่มีข้อมูลเงินทุนต่างชาติรายตัว ทั้งตลาดต่างชาติขายสุทธิ 2,495.23 ล้านบาทในวันที่ 19 พ.ย. ซึ่งไม่ได้อธิบายว่าเหตุใด BH ร่วง",
+   "url": "https://www.infoquest.co.th/2026/681968",
+   "check": "Look for SET foreign net-sell data for BH on 18–19 Nov before treating this as the cause."
   },
   {
-   "en": "Implied claim in the title: the jump is a benefit of higher world oil prices and recovering refining margins. The company text cites petrochemicals, refining and E&P, and also a large stock gain (inventory revaluation), which is an accounting effect that can reverse when prices fall. We have not seen a breakdown of how much of Q3 itself came from stock gains (only the 9M figure).",
-   "th": "ข้ออ้างในพาดหัว: กำไรที่เพิ่มมาจากราคาน้ำมันโลกและค่าการกลั่นที่ฟื้น ตัวบริษัทระบุปัจจัยจากปิโตรเคมี การกลั่น และสำรวจผลิต รวมถึงกำไรจากสต๊อกน้ำมันขนาดใหญ่ (การตีมูลค่าสินค้าคงเหลือ) ซึ่งเป็นผลทางบัญชีที่อาจกลับด้านเมื่อราคาลง ยังไม่พบรายละเอียดว่า Q3 เองมีกำไรสต๊อกเท่าไร (มีเฉพาะตัวเลข 9 เดือน)",
-   "url": "https://www.bangkokbiznews.com/finance/stock/1260544",
-   "check": "Read the MD&A for Q3 stock gain and market GRM before calling the profit 'sustainable'."
+   "en": "Claim: 'sell on fact' after Q3 results. This is a trading explanation, not a fact. The company's Q3 figures were not a surprise to the brokers we saw (the Krungsri Securities view centres on Q4 guidance, not Q3), so the two explanations compete.",
+   "th": "ข้ออ้าง: 'Sell on fact' หลังงบ Q3 เป็นคำอธิบายด้านการซื้อขาย ไม่ใช่ข้อเท็จจริง โบรกเกอร์ที่เราอ่านเน้น guidance Q4 ไม่ใช่ตัวเลข Q3 จึงมีคำอธิบายที่ขัดแย้งกัน",
+   "url": "https://www.infoquest.co.th/2026/682366",
+   "check": "Compare the Q3 results with consensus (SET F45 / MD&A) before accepting 'sell on fact'."
   },
   {
-   "en": "Social posts quoting only 'PTT profit +100%' omit that Q3 was 22.8% below Q2 and that 9M includes about THB 37,800m of stock gains. A single number without its base (y/y vs q/q, with or without stock gains) can mislead.",
-   "th": "โพสต์โซเชียลที่อ้างเพียง 'กำไร PTT +100%' ไม่ได้บอกว่า Q3 ต่ำกว่า Q2 อยู่ 22.8% และงวด 9 เดือนมีกำไรสต๊อกราว 37,800 ล้านบาท ตัวเลขเดียวที่ไม่ระบุฐานเทียบ (y/y หรือ q/q รวมหรือไม่รวมกำไรสต๊อก) อาจทำให้เข้าใจผิด (ไม่ได้อ้างโพสต์ใดโดยเฉพาะ)",
-   "url": null,
-   "check": "Always state the comparison base and whether one-offs/stock gains are included."
+   "en": "Claim: BH's earnings outlook is 'strong' or 'weak'. Brokers differ on the same facts (flat Q4 revenue): some keep Buy, one calls it slightly negative. A price target is an opinion, not a reported number.",
+   "th": "ข้ออ้าง: แนวโน้มกำไร BH 'แข็งแกร่ง' หรือ 'อ่อนแอ' โบรกเกอร์มองต่างกันจากข้อเท็จจริงเดียวกัน (รายได้ Q4 ทรงตัว) บางแห่งคง Buy หนึ่งแห่งมอง slightly negative ราคาเป้าหมายเป็นความเห็น ไม่ใช่ตัวเลขที่รายงาน",
+   "url": "https://www.infoquest.co.th/2026/682366",
+   "check": "Treat price targets as opinions; read the company's own MD&A for Q4 drivers."
   }
  ],
- "lesson": "AI drafts, you verify: a headline percentage is a claim until you recompute it from the company's own figures."
+ "lesson": "AI drafts, you verify: an analyst's 'may be because' is a hypothesis. Check the data (flows, results vs. expectations) before repeating it as the cause."
 }
