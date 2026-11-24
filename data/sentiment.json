@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-23 07:50 (Bangkok, UTC+7)",
- "company": "BH",
- "story": "BH shares fall 6.2% on 19 Nov 2026: is it Q4 guidance or foreign investors moving money to a US IPO?",
- "story_th": "หุ้น BH ร่วง 6.2% วันที่ 19 พ.ย. 69: เพราะ guidance รายได้ Q4 หรือต่างชาติโยกเงินไปรอ IPO หุ้นสหรัฐ?",
+ "updated": "2026-11-24 07:39 (Bangkok, UTC+7)",
+ "company": "GULF",
+ "story": "GULF shares fall 2.86% on 23 Nov 2026: are US data-centre tax worries really a threat to GULF's profit?",
+ "story_th": "หุ้น GULF ร่วง 2.86% วันที่ 23 พ.ย. 69: กังวลภาษี Data Center สหรัฐฯ กระทบกำไร GULF จริงหรือ?",
  "verified": [
   {
-   "en": "Price: BH closed at THB 178.00 on 20 Nov, down THB 3.00 (-1.66%), after -6.22% to THB 181.00 on 19 Nov and -3.98% on 18 Nov. SET fell 1.31% on 20 Nov.",
-   "th": "ราคา: BH ปิด 178.00 บาท วันที่ 20 พ.ย. ลด 3.00 บาท (-1.66%) หลัง -6.22% เหลือ 181.00 บาทวันที่ 19 พ.ย. และ -3.98% วันที่ 18 พ.ย. SET ลด 1.31% วันที่ 20 พ.ย.",
-   "url": "https://www.set.or.th/th/market/product/stock/quote/bh/price",
-   "src": "SET"
+   "en": "Price: GULF closed at THB 59.50 on 23 Nov, down THB 1.75 (-2.86%), on turnover of THB 3,626.71m; it was the biggest drag on SET (-2.07 points). SET itself closed +0.08% at 1,454.49.",
+   "th": "ราคา: GULF ปิด 59.50 บาท วันที่ 23 พ.ย. ลด 1.75 บาท (-2.86%) มูลค่าซื้อขาย 3,626.71 ล้านบาท กดดัน SET มากที่สุด (-2.07 จุด) ขณะที่ SET ปิด +0.08% ที่ 1,454.49",
+   "url": "https://www.efin.finance/th/stock/news/detail/-i11AA",
+   "src": "efin.finance"
   },
   {
-   "en": "Company guidance (via Krungsri Securities): Q4 2026 revenue expected flat y/y because Middle East uncertainty affects travel and patient transfers, especially Qatari patients. Q3 treatment revenue +3% y/y (Thai +8%, foreign +0.2%); Qatar is about 16% of treatment revenue.",
-   "th": "Guidance จากบริษัท (ผ่าน บล.กรุงศรี): รายได้ Q4/69 ทรงตัว y/y เพราะความไม่แน่นอนในตะวันออกกลางกระทบการเดินทางและการส่งตัวผู้ป่วย โดยเฉพาะกาตาร์ รายได้รักษา Q3 +3% y/y (ไทย +8% ต่างชาติ +0.2%) กาตาร์ราว 16% ของรายได้รักษา",
-   "url": "https://www.infoquest.co.th/2026/682366",
-   "src": "InfoQuest (Krungsri Securities)"
+   "en": "Peers also fell in the morning: BGRIM -6.14% and GPSC -4.08% at 10:16, GULF -1.63% (InfoQuest). Yuanta Securities linked the fall to the US president's statement that Big Tech should build data centres in the US and would face very high tax abroad.",
+   "th": "หุ้นโรงไฟฟ้าอื่นก็ลงช่วงเช้า: BGRIM -6.14% GPSC -4.08% เวลา 10.16 น. GULF -1.63% (อินโฟเควสท์) บล.หยวนต้าโยงการลงกับคำประกาศของประธานาธิบดีสหรัฐฯ ว่า Big Tech ต้องสร้าง Data Center ในสหรัฐฯ และจะเก็บภาษีสูงมากหากสร้างนอกประเทศ",
+   "url": "https://www.infoquest.co.th/2026/683831",
+   "src": "InfoQuest (Yuanta Securities)"
   },
   {
-   "en": "Broker view: Krungsri Securities called the analyst meeting 'slightly negative' but kept Buy with a THB 225 target, saying the share price weakness does not fully reflect long-term growth (BIH Phuket opens Sep 2027).",
-   "th": "มุมมองโบรกเกอร์: บล.กรุงศรีมองการประชุมนักวิเคราะห์เป็น slightly negative แต่คง Buy เป้า 225 บาท โดยชี้ว่าราคาหุ้นที่อ่อนตัวยังไม่สะท้อนศักยภาพระยะยาวเต็มที่ (BIH ภูเก็ตเปิด ก.ย. 70)",
-   "url": "https://www.infoquest.co.th/2026/682366",
-   "src": "InfoQuest (Krungsri Securities)"
+   "en": "Analyst view: CGS International said no rule has been published yet, and sees no immediate Q4 2026 impact on existing orders because projects under way are on plan. KGI said GULF and BGRIM are most at risk of negative sentiment, while GULF's data-centre pipeline is still a small share of profit.",
+   "th": "มุมมองนักวิเคราะห์: บล.ซีจีเอส อินเตอร์เนชั่นแนลระบุว่ายังไม่มีรายละเอียดมาตรการออกมา และไม่น่ากระทบยอดขาย/คำสั่งซื้อเดิมใน Q4/69 เพราะโครงการที่ทำอยู่เป็นไปตามแผน เคจีไอมอง GULF และ BGRIM เสี่ยง sentiment ลบมากที่สุด แต่ Data Center ใน pipeline ของ GULF ยังมีสัดส่วนกำไรไม่มาก",
+   "url": "https://www.bangkokbiznews.com/finance/stock/1262016",
+   "src": "Bangkok Biz News (CGS International, KGI)"
   }
  ],
  "unverified": [
   {
-   "en": "Claim: the BH and BDMS fall comes from foreign investors selling to raise cash for a US IPO. A Krungthai XSpring analyst only said this 'may' be the case (18 Nov). The article gives no foreign-flow data by stock. SET-wide, foreigners sold THB 2,495.23m on 19 Nov, which does not show why BH fell.",
-   "th": "ข้ออ้าง: BH และ BDMS ลงเพราะต่างชาติขายเพื่อเตรียมเงินรอ IPO หุ้นสหรัฐ นักวิเคราะห์ บล.กรุงไทย เอ็กซ์สปริงระบุเพียงว่า 'อาจ' เป็นเช่นนั้น (18 พ.ย.) ข่าวไม่มีข้อมูลเงินทุนต่างชาติรายตัว ทั้งตลาดต่างชาติขายสุทธิ 2,495.23 ล้านบาทในวันที่ 19 พ.ย. ซึ่งไม่ได้อธิบายว่าเหตุใด BH ร่วง",
-   "url": "https://www.infoquest.co.th/2026/681968",
-   "check": "Look for SET foreign net-sell data for BH on 18–19 Nov before treating this as the cause."
+   "en": "Claim: the US will tax or penalise Big Tech data centres abroad. Brokers describe it as a signal or 'idea' (reported from 20 Nov); the details and any law or regulation are not published, and we did not open an official US source.",
+   "th": "ข้ออ้าง: สหรัฐฯ จะเก็บภาษีหรือลงโทษ Data Center ของ Big Tech นอกประเทศ โบรกเกอร์ระบุเป็นสัญญาณหรือ 'แนวคิด' (รายงานตั้งแต่ 20 พ.ย.) ยังไม่มีรายละเอียดหรือกฎหมายเผยแพร่ และเรายังไม่ได้เปิดแหล่งทางการสหรัฐฯ",
+   "url": "https://www.bangkokbiznews.com/finance/stock/1261925",
+   "check": "Look for the official US statement or rule text before treating the tax as real."
   },
   {
-   "en": "Claim: 'sell on fact' after Q3 results. This is a trading explanation, not a fact. The Krungsri Securities note we opened centres on Q4 guidance rather than the Q3 figures, so the two explanations may compete.",
-   "th": "ข้ออ้าง: 'Sell on fact' หลังงบ Q3 เป็นคำอธิบายด้านการซื้อขาย ไม่ใช่ข้อเท็จจริง บทวิเคราะห์ บล.กรุงศรีที่เปิดอ่านเน้น guidance Q4 ไม่ใช่ตัวเลข Q3 จึงอาจมีคำอธิบายที่ขัดแย้งกัน",
-   "url": "https://www.infoquest.co.th/2026/682366",
-   "check": "Compare the Q3 results with consensus (SET F45 / MD&A) before accepting 'sell on fact'."
+   "en": "Claim: GULF's earnings will be hurt. Brokers disagree: KGI says profits estimates are unchanged and the data-centre share is small; another house still recommends GULF as a pick. A fall in the share price is not the same as a fall in earnings.",
+   "th": "ข้ออ้าง: กำไร GULF จะได้รับผลกระทบ โบรกเกอร์เห็นต่างกัน เคจีไอระบุประมาณการกำไรยังไม่เปลี่ยนและสัดส่วน Data Center ต่ำ อีกโบรกยังแนะนำ GULF ราคาหุ้นลดไม่เท่ากับกำไรลด",
+   "url": "https://www.bangkokbiznews.com/finance/stock/1262016",
+   "check": "Check GULF's own MD&A / Opportunity Day for data-centre revenue and profit share."
   },
   {
-   "en": "Claim: BH's earnings outlook is 'strong' or 'weak'. Brokers differ on the same facts (flat Q4 revenue): some keep Buy, one calls it slightly negative. A price target is an opinion, not a reported number.",
-   "th": "ข้ออ้าง: แนวโน้มกำไร BH 'แข็งแกร่ง' หรือ 'อ่อนแอ' โบรกเกอร์มองต่างกันจากข้อเท็จจริงเดียวกัน (รายได้ Q4 ทรงตัว) บางแห่งคง Buy หนึ่งแห่งมอง slightly negative ราคาเป้าหมายเป็นความเห็น ไม่ใช่ตัวเลขที่รายงาน",
-   "url": "https://www.infoquest.co.th/2026/682366",
-   "check": "Treat price targets as opinions; read the company's own MD&A for Q4 drivers."
+   "en": "Claim: downside is limited because shares already priced in slower Big Tech data-centre building, and the US president lost the midterm elections (Yuanta). These are broker opinions we did not verify.",
+   "th": "ข้ออ้าง: Downside จำกัดเพราะราคาหุ้นสะท้อนการชะลอก่อสร้าง Data Center ไปแล้ว และประธานาธิบดีสหรัฐฯ แพ้เลือกตั้งกลางเทอม (บล.หยวนต้า) เป็นความเห็นโบรกเกอร์ที่เรายังไม่ได้ตรวจสอบ",
+   "url": "https://www.infoquest.co.th/2026/683831",
+   "check": "Treat as opinion; check an independent source on the election result and on valuation."
   }
  ],
- "lesson": "AI drafts, you verify: an analyst's 'may be because' is a hypothesis. Check the data (flows, results vs. expectations) before repeating it as the cause."
+ "lesson": "AI drafts, you verify: a market-move explanation ('because of policy X') is a hypothesis until the rule is published and the company's own numbers show an effect."
 }
