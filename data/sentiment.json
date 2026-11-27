@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-26 07:55 (Bangkok, UTC+7)",
+ "updated": "2026-11-27 07:43 (Bangkok, UTC+7)",
  "company": "AOT",
- "story": "AOT shares fall a second day on 25 Nov 2026 (-2.17%, about -6.25% in two days): is the Q4 profit miss a lasting problem or a one-off cost?",
- "story_th": "หุ้น AOT ร่วงวันที่สองวันที่ 25 พ.ย. 69 (-2.17% รวมสองวันราว -6.25%): กำไรไตรมาส 4 ต่ำกว่าคาดเป็นปัญหาระยะยาวหรือแค่ต้นทุนครั้งคราว?",
+ "story": "AOT shares fall a third day on 26 Nov 2026 (-2.67%, about -8.75% in three days): is the Q4 profit miss a lasting problem or a one-off cost?",
+ "story_th": "หุ้น AOT ร่วงวันที่สามวันที่ 26 พ.ย. 69 (-2.67% รวมสามวันราว -8.75%): กำไรไตรมาส 4 ต่ำกว่าคาดเป็นปัญหาระยะยาวหรือแค่ต้นทุนครั้งคราว?",
  "verified": [
   {
-   "en": "Price: AOT closed at THB 56.25 on 25 Nov, down THB 1.25 (-2.17%), turnover about THB 2.15bn (7th by value on SET); previous close 57.50 (SET data page). Over 24–25 Nov it fell THB 3.75, or 6.25%, from 60.00. SET closed -1.59% at 1,428.50, with AOT named among large caps sold.",
-   "th": "ราคา: AOT ปิด 56.25 บาท วันที่ 25 พ.ย. ลด 1.25 บาท (-2.17%) มูลค่าซื้อขายราว 2.15 พันล้านบาท (อันดับ 7 ของ SET) ปิดก่อนหน้า 57.50 บาท (หน้าข้อมูล SET) ช่วง 24–25 พ.ย. ลงรวม 3.75 บาท หรือ 6.25% จาก 60.00 บาท ขณะที่ SET ปิด -1.59% ที่ 1,428.50 และ AOT เป็นหนึ่งในหุ้นใหญ่ที่ถูกขาย",
-   "url": "https://www.hooninside.com/news-feed/424312/view/",
-   "src": "HoonInside (SET data); Prachachat"
+   "en": "Price: AOT closed at THB 54.75 on 26 Nov, down THB 1.50 (-2.67%), turnover about THB 3.29bn (2nd by value on SET); previous close 56.25 (HoonInside top-10 table). Over 24–26 Nov it fell THB 5.25, or 8.75%, from 60.00 (60.00 from the 25 Nov HoonInside page). SET fell less: -0.98% to 1,414.44.",
+   "th": "ราคา: AOT ปิด 54.75 บาท วันที่ 26 พ.ย. ลด 1.50 บาท (-2.67%) มูลค่าซื้อขายราว 3.29 พันล้านบาท (อันดับ 2 ของ SET) ปิดก่อนหน้า 56.25 บาท (ตาราง 10 อันดับของ HoonInside) ช่วง 24–26 พ.ย. ลงรวม 5.25 บาท หรือ 8.75% จาก 60.00 บาท (ราคา 60.00 จากหน้า HoonInside วันที่ 25 พ.ย.) ขณะที่ SET ลดน้อยกว่า -0.98% ที่ 1,414.44",
+   "url": "https://www.hooninside.com/news-feed/424461/view/",
+   "src": "HoonInside (SET data); Bangkok Biz News"
   },
   {
    "en": "Company action: AOT's board approved an annual dividend of THB 0.81 per share, paid from 60% of profit (record date 9 Dec, XD 8 Dec, payment 4 Feb 2027), about a 1.44% yield on the 25 Nov close. HoonSmart reports investors were disappointed by Q4 profit below expectations and analysts cut earnings and target-price forecasts, while most kept Buy.",
@@ -31,9 +31,9 @@
    "check": "Check AOT's monthly passenger statistics for Oct–Nov 2026 and the Q1 FY2027 result when released."
   },
   {
-   "en": "Claim: the drop is only about the earnings miss. The pages opened also show a broad market sell-off (SET -1.59%, trade-war worries, foreign and institutional selling), so how much of AOT's fall is company-specific versus market-wide is not established; no AOT filing was opened.",
-   "th": "ข้ออ้าง: การลงของ AOT เกิดจากงบต่ำกว่าคาดเท่านั้น หน้าที่เปิดดูแสดงว่าตลาดโดยรวมก็ถูกขาย (SET -1.59% กังวลสงครามการค้า ต่างชาติและสถาบันขาย) จึงยังไม่ทราบว่าส่วนใดมาจากปัจจัยเฉพาะตัวหรือตลาดโดยรวม และไม่ได้เปิดเอกสารที่ AOT ยื่นต่อ SET",
-   "url": "https://www.prachachat.net/finance/news-2102193",
+   "en": "Claim: the drop is only about the earnings miss. The pages opened show market-wide pressure too: SET -1.59% on 25 Nov and -0.98% on 26 Nov (Bangkok Biz News cites NVIDIA chip-export worries hitting data-centre and utility-linked stocks, though AOT is not named as affected). AOT fell more than the index on both days, so how much is company-specific versus market-wide is not established; no AOT filing was opened.",
+   "th": "ข้ออ้าง: การลงของ AOT เกิดจากงบต่ำกว่าคาดเท่านั้น หน้าที่เปิดดูแสดงว่าตลาดโดยรวมก็ถูกกดดัน: SET -1.59% วันที่ 25 พ.ย. และ -0.98% วันที่ 26 พ.ย. (กรุงเทพธุรกิจระบุความกังวลเรื่องควบคุมส่งออกชิปของ NVIDIA กดหุ้นดาต้าเซ็นเตอร์และสาธารณูปโภคที่เกี่ยวข้อง แต่ไม่ได้ระบุชื่อ AOT) AOT ลงมากกว่าดัชนีทั้งสองวัน จึงยังไม่ทราบว่าส่วนใดมาจากปัจจัยเฉพาะตัวหรือตลาดโดยรวม และไม่ได้เปิดเอกสารที่ AOT ยื่นต่อ SET",
+   "url": "https://www.bangkokbiznews.com/finance/stock/1262520",
    "check": "Compare AOT's move with SET and peers over several days, and read AOT's SET filing and MD&A for the impairment and cost breakdown."
   },
   {
